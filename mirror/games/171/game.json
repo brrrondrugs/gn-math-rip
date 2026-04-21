@@ -1,0 +1,13 @@
+{
+  "id": 171,
+  "name": "Candy Crush",
+  "cover": "{COVER_URL}/171.png",
+  "url": "{HTML_URL}/171.html",
+  "author": "King.com",
+  "authorLink": "https://www.king.com/game/candycrush",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

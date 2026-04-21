@@ -1,0 +1,18 @@
+{
+  "id": 196,
+  "name": "ULTRAKILL",
+  "cover": "{COVER_URL}/196.png",
+  "url": "{HTML_URL}/196-fixed.html",
+  "author": "New Blood Interactive, Cake Logic",
+  "authorLink": "https://sites.google.com/view/cakelogic",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

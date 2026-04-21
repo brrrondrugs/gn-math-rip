@@ -1,0 +1,17 @@
+{
+  "id": 672,
+  "name": "A Difficult Game About Climbing",
+  "cover": "{COVER_URL}/672.png",
+  "url": "{HTML_URL}/672-2.html",
+  "author": "Pontypants",
+  "authorLink": "https://store.steampowered.com/app/2497920/A_Difficult_Game_About_Climbing/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

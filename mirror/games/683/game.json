@@ -1,0 +1,16 @@
+{
+  "id": 683,
+  "name": "Cooking Mama 3",
+  "cover": "{COVER_URL}/683.png",
+  "url": "{HTML_URL}/683.html",
+  "author": "Office Create",
+  "authorLink": "https://www.cookingmama.com/",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

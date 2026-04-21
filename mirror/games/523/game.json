@@ -1,0 +1,17 @@
+{
+  "id": 523,
+  "name": "Touhou Mother",
+  "cover": "{COVER_URL}/523.png",
+  "url": "{HTML_URL}/523-f.html",
+  "author": "vgperson",
+  "authorLink": "https://vgperson.com/games/touhoumother.htm",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

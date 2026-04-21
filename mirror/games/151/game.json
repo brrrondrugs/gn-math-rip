@@ -1,0 +1,13 @@
+{
+  "id": 151,
+  "name": "Chess Classic",
+  "cover": "{COVER_URL}/151.png",
+  "url": "{HTML_URL}/151.html",
+  "author": "Famobi",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.chessclassic",
+  "tags": [
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

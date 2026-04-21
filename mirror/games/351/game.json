@@ -1,0 +1,13 @@
+{
+  "id": 351,
+  "name": "Happy Sheepies",
+  "cover": "{COVER_URL}/351.png",
+  "url": "{HTML_URL}/351.html",
+  "author": "Berker Games",
+  "authorLink": "https://berkergames.itch.io/happy-sheepies",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

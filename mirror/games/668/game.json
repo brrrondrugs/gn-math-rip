@@ -1,0 +1,16 @@
+{
+  "id": 668,
+  "name": "Gorilla Tag",
+  "cover": "{COVER_URL}/668.png",
+  "url": "{HTML_URL}/668-fix2.html",
+  "author": "Another Axiom Inc, Boolonx",
+  "authorLink": "https://boolonx.com/gtag/?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

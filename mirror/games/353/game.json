@@ -1,0 +1,14 @@
+{
+  "id": 353,
+  "name": "Blumgi Rocket",
+  "cover": "{COVER_URL}/353.png",
+  "url": "{HTML_URL}/353.html",
+  "author": "Blumgi",
+  "authorLink": "https://blumgi.com",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

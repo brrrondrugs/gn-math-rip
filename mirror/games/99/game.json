@@ -1,0 +1,14 @@
+{
+  "id": 99,
+  "name": "Moto X3M Spooky",
+  "cover": "{COVER_URL}/99.png",
+  "url": "{HTML_URL}/99.html",
+  "author": "MadPuffers",
+  "authorLink": "https://www.madpuffers.com",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

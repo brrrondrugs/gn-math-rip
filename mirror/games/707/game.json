@@ -1,0 +1,13 @@
+{
+  "id": 707,
+  "name": "Traffic Racer",
+  "cover": "{COVER_URL}/707.png",
+  "url": "{HTML_URL}/707-fix.html",
+  "author": "skgames, madkidgames",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.skgames.trafficracer&hl=en_US",
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

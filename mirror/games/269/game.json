@@ -1,0 +1,14 @@
+{
+  "id": 269,
+  "name": "Bad Ice Cream",
+  "cover": "{COVER_URL}/269.png",
+  "url": "{HTML_URL}/269.html",
+  "author": "Nitrome",
+  "authorLink": "https://poki.com/en/g/bad-ice-cream",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

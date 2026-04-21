@@ -1,0 +1,18 @@
+{
+  "id": 588,
+  "name": "Super Mario 64",
+  "cover": "{COVER_URL}/588.png",
+  "url": "{HTML_URL}/588.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

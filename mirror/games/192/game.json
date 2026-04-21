@@ -1,0 +1,17 @@
+{
+  "id": 192,
+  "name": "Five Nights at Freddy's: Ultimate Custom Night",
+  "cover": "{COVER_URL}/192.png",
+  "url": "{HTML_URL}/192.html",
+  "author": "Scott Cawthon",
+  "authorLink": "https://scottgames.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

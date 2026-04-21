@@ -1,0 +1,14 @@
+{
+  "id": 281,
+  "name": "Pixel Gun Survival",
+  "cover": "{COVER_URL}/281.png",
+  "url": "{HTML_URL}/281.html",
+  "author": "Mentolatux",
+  "authorLink": "https://www.fiverr.com/mentolatux",
+  "tags": [
+    "Shooting",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

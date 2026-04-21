@@ -1,0 +1,14 @@
+{
+  "id": 373,
+  "name": "Stickman Climb",
+  "cover": "{COVER_URL}/373.png",
+  "url": "{HTML_URL}/373.html",
+  "author": "No Pressure Studios",
+  "authorLink": "https://www.nopressurestudios.com",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

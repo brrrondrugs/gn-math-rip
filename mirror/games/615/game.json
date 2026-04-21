@@ -1,0 +1,16 @@
+{
+  "id": 615,
+  "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+  "cover": "{COVER_URL}/615.png",
+  "url": "{HTML_URL}/615.html-a",
+  "author": "Dave and Bambi team",
+  "authorLink": "https://gamebanana.com/mods/43201",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

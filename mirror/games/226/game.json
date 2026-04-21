@@ -1,0 +1,17 @@
+{
+  "id": 226,
+  "name": "Papa's Pastaria",
+  "cover": "{COVER_URL}/226.png",
+  "url": "{HTML_URL}/226.html",
+  "author": "Flipline Studios",
+  "authorLink": "https://www.flipline.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

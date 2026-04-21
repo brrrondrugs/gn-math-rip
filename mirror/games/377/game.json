@@ -1,0 +1,13 @@
+{
+  "id": 377,
+  "name": "Build a Plane",
+  "cover": "{COVER_URL}/377.png",
+  "url": "{HTML_URL}/377.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

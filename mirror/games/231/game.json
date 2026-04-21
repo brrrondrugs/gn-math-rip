@@ -1,0 +1,17 @@
+{
+  "id": 231,
+  "name": "Papa's Wingeria",
+  "cover": "{COVER_URL}/231.png",
+  "url": "{HTML_URL}/231.html",
+  "author": "Flipline Studios",
+  "authorLink": "https://www.flipline.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

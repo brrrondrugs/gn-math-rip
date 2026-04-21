@@ -1,0 +1,14 @@
+{
+  "id": 147,
+  "name": "Angry Birds Showdown",
+  "cover": "{COVER_URL}/147.png",
+  "url": "{HTML_URL}/147.html",
+  "author": "Rovio Entertainment",
+  "authorLink": "https://www.rovio.com",
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

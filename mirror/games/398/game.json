@@ -1,0 +1,14 @@
+{
+  "id": 398,
+  "name": "Makeover Run",
+  "cover": "{COVER_URL}/398.png",
+  "url": "{HTML_URL}/398.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Simulation",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

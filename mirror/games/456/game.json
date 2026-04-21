@@ -1,0 +1,17 @@
+{
+  "id": 456,
+  "name": "Undertale Yellow",
+  "cover": "{COVER_URL}/456.png",
+  "url": "{HTML_URL}/456.html",
+  "author": "Team Undertale Yellow",
+  "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

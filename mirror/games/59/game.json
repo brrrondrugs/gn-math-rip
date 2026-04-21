@@ -1,0 +1,13 @@
+{
+  "id": 59,
+  "name": "A Dance of Fire and Ice",
+  "cover": "{COVER_URL}/59.png",
+  "url": "{HTML_URL}/59.html",
+  "author": "fizzd",
+  "authorLink": "https://fizzd.itch.io/",
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

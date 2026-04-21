@@ -1,0 +1,13 @@
+{
+  "id": 575,
+  "name": "Shovel 3D",
+  "cover": "{COVER_URL}/575.png",
+  "url": "{HTML_URL}/575.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

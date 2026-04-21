@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "name": "Ice Dodo",
+  "cover": "{COVER_URL}/5.png",
+  "url": "{HTML_URL}/5.html",
+  "author": "Onionfist Studio",
+  "authorLink": "https://onionfist.com",
+  "tags": [
+    "Platformer",
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

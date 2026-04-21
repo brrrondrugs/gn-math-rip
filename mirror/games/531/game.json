@@ -1,0 +1,14 @@
+{
+  "id": 531,
+  "name": "SpongeBob SquarePants: The Kah-Ray-Tay Squid",
+  "cover": "{COVER_URL}/531.png",
+  "url": "{HTML_URL}/531.html",
+  "author": "Nickelodeon",
+  "authorLink": "https://nick.com",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

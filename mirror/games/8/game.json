@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "name": "Friday Night Funkin",
+  "cover": "{COVER_URL}/8.png",
+  "url": "{HTML_URL}/8-wow.html",
+  "author": "ninja-muffin24",
+  "authorLink": "https://ninja-muffin24.itch.io/funkin",
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

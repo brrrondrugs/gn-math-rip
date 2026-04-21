@@ -1,0 +1,13 @@
+{
+  "id": 365,
+  "name": "JustFall.lol",
+  "cover": "{COVER_URL}/365.png",
+  "url": "{HTML_URL}/365.html",
+  "author": "JustPlay.LOL",
+  "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

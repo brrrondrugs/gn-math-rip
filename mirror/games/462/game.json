@@ -1,0 +1,17 @@
+{
+  "id": 462,
+  "name": "DEAD PLATE",
+  "cover": "{COVER_URL}/462.png",
+  "url": "{HTML_URL}/462.html",
+  "author": "racheldrawsthis",
+  "authorLink": "https://racheldrawsthis.itch.io/dead-plate",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

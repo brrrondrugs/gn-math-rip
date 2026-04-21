@@ -1,0 +1,16 @@
+{
+  "id": 621,
+  "name": "Friday Night Funkin': Gumballs",
+  "cover": "{COVER_URL}/621.png",
+  "url": "{HTML_URL}/621.html",
+  "author": "Gumballs team",
+  "authorLink": "https://gamebanana.com/mods/614094",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

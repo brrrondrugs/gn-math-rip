@@ -1,0 +1,16 @@
+{
+  "id": 619,
+  "name": "Friday Night Funkin': Rev-Mixed",
+  "cover": "{COVER_URL}/619.png",
+  "url": "{HTML_URL}/619.html",
+  "author": "Rev-Mixed team",
+  "authorLink": "https://gamebanana.com/mods/621085",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

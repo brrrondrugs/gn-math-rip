@@ -1,0 +1,16 @@
+{
+  "id": 458,
+  "name": "The Deadseat",
+  "cover": "{COVER_URL}/458.png",
+  "url": "{HTML_URL}/458.html",
+  "author": "Curious Fox Sox",
+  "authorLink": "https://store.steampowered.com/app/3667230/The_Deadseat",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

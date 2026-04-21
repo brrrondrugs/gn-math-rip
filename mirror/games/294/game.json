@@ -1,0 +1,13 @@
+{
+  "id": 294,
+  "name": "Idle Dice",
+  "cover": "{COVER_URL}/294.png",
+  "url": "{HTML_URL}/294.html",
+  "author": "Lutz Schönfelder",
+  "authorLink": "https://github.com/luts91",
+  "tags": [
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

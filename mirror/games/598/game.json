@@ -1,0 +1,17 @@
+{
+  "id": 598,
+  "name": "Sonic.EXE",
+  "cover": "{COVER_URL}/598.png",
+  "url": "{HTML_URL}/598.html",
+  "author": " Cinossu",
+  "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Horror",
+    "Platformer"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

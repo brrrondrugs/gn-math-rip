@@ -1,0 +1,17 @@
+{
+  "id": 466,
+  "name": "Baldi's Basics Classic Remastered",
+  "cover": "{COVER_URL}/466.png",
+  "url": "{HTML_URL}/466.html",
+  "author": "Basically Games",
+  "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "name": "Mob Control HTML5",
+  "cover": "{COVER_URL}/22.png",
+  "url": "{HTML_URL}/22.html",
+  "author": "Voodoo",
+  "authorLink": "https://voodoo.io",
+  "tags": [
+    "Strategy",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

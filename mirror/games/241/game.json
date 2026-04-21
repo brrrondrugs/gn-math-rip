@@ -1,0 +1,17 @@
+{
+  "id": 241,
+  "name": "Red Ball 3",
+  "cover": "{COVER_URL}/241.png",
+  "url": "{HTML_URL}/241.html",
+  "author": "Yohoho Games",
+  "authorLink": "https://yohoho.games",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

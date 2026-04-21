@@ -1,0 +1,17 @@
+{
+  "id": 517,
+  "name": "Nubby's Number Factory",
+  "cover": "{COVER_URL}/517.png",
+  "url": "{HTML_URL}/517.html",
+  "author": "MogDogBlog Productions",
+  "authorLink": "https://mogdogblog-productions.itch.io/nubbys-number-factory",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

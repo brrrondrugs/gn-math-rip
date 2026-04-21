@@ -1,0 +1,13 @@
+{
+  "id": 273,
+  "name": "BlockPost",
+  "cover": "{COVER_URL}/273.png",
+  "url": "{HTML_URL}/273.html",
+  "author": "SkullCap Studios",
+  "authorLink": "https://poki.com/en/g/blockpost",
+  "tags": [
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

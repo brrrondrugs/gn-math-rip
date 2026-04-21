@@ -1,0 +1,17 @@
+{
+  "id": 170,
+  "name": "Big Tower Tiny Square 2",
+  "cover": "{COVER_URL}/170.png",
+  "url": "{HTML_URL}/170.html",
+  "author": "EO Interactive",
+  "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 613,
+  "name": "Friday Night Funkin' Drop and Roll, but Playable",
+  "cover": "{COVER_URL}/613.png",
+  "url": "{HTML_URL}/613.html",
+  "author": "Drop and roll team",
+  "authorLink": "https://gamebanana.com/mods/514851",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

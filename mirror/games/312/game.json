@@ -1,0 +1,13 @@
+{
+  "id": 312,
+  "name": "BlackJack",
+  "cover": "{COVER_URL}/312.png",
+  "url": "{HTML_URL}/312.html",
+  "author": "Synic-dx",
+  "authorLink": "https://github.com/Synic-dx/blackJack/",
+  "tags": [
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 349,
+  "name": "Spiral Roll",
+  "cover": "{COVER_URL}/349.png",
+  "url": "{HTML_URL}/349.html",
+  "author": "Voodoo",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.Celltop.SpiralRoll",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

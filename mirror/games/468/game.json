@@ -1,0 +1,19 @@
+{
+  "id": 468,
+  "name": "Hollow Knight",
+  "cover": "{COVER_URL}/468.png",
+  "url": "{HTML_URL}/468-f.html",
+  "author": "Team Cherry",
+  "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Action",
+    "Platformer",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

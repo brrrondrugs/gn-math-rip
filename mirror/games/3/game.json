@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "name": "OvO 3 Dimensions",
+  "cover": "{COVER_URL}/3.png",
+  "url": "{HTML_URL}/3.html",
+  "author": "Dedra Games",
+  "authorLink": "https://dedragames.com",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 379,
+  "name": "Car Survival 3D",
+  "cover": "{COVER_URL}/379.png",
+  "url": "{HTML_URL}/379.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Racing",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

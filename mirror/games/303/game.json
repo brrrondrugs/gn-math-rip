@@ -1,0 +1,13 @@
+{
+  "id": 303,
+  "name": "Territorial.io",
+  "cover": "{COVER_URL}/303.png",
+  "url": "{HTML_URL}/303.html",
+  "author": "TTCreator",
+  "authorLink": "https://play.google.com/store/apps/dev?id=8652009334379030762",
+  "tags": [
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

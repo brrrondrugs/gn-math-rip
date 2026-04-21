@@ -1,0 +1,14 @@
+{
+  "id": 18,
+  "name": "Stacky Dash",
+  "cover": "{COVER_URL}/18.png",
+  "url": "{HTML_URL}/18.html",
+  "author": "Supersonic Studios LTD",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.Born2Play.StackyDash",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

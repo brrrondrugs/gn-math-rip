@@ -1,0 +1,14 @@
+{
+  "id": 407,
+  "name": "Survive to Victory",
+  "cover": "{COVER_URL}/407.png",
+  "url": "{HTML_URL}/407.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

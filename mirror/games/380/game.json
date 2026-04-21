@@ -1,0 +1,14 @@
+{
+  "id": 380,
+  "name": "City Defense",
+  "cover": "{COVER_URL}/380.png",
+  "url": "{HTML_URL}/380.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Tower",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 63,
+  "name": "Angry Birds",
+  "cover": "{COVER_URL}/63.png",
+  "url": "{HTML_URL}/63.html",
+  "author": "Rovio Entertainment",
+  "authorLink": "https://www.rovio.com/",
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

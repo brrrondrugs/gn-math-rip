@@ -1,0 +1,17 @@
+{
+  "id": 174,
+  "name": "World Box",
+  "cover": "{COVER_URL}/174.png",
+  "url": "{HTML_URL}/174.html",
+  "author": "Kendja",
+  "authorLink": "https://www.newgrounds.com/portal/view/603435",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

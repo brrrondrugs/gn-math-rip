@@ -1,0 +1,14 @@
+{
+  "id": 276,
+  "name": "Drift Boss",
+  "cover": "{COVER_URL}/276.png",
+  "url": "{HTML_URL}/276.html",
+  "author": "marketjs",
+  "authorLink": "https://www.marketjs.com",
+  "tags": [
+    "Racing",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

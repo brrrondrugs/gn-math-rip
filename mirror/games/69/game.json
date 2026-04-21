@@ -1,0 +1,14 @@
+{
+  "id": 69,
+  "name": "Big ICE Tower Tiny Square",
+  "cover": "{COVER_URL}/69.png",
+  "url": "{HTML_URL}/69.html",
+  "author": "EvilObjective",
+  "authorLink": "https://evilobjective.itch.io",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

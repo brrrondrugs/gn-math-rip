@@ -1,0 +1,13 @@
+{
+  "id": 536,
+  "name": "Cat Connection",
+  "cover": "{COVER_URL}/536.png",
+  "url": "{HTML_URL}/536.html",
+  "author": "MOSTLY MAD PRODUCTIONS",
+  "authorLink": "https://mostlymadproductions.itch.io/cat-connection",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

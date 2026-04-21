@@ -1,0 +1,17 @@
+{
+  "id": 658,
+  "name": "Midnight Shift",
+  "cover": "{COVER_URL}/658.png",
+  "url": "{HTML_URL}/658.html",
+  "author": "Phantom GD",
+  "authorLink": "https://phantom-gd.itch.io/midnight-shift",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

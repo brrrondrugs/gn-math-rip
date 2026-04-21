@@ -1,0 +1,14 @@
+{
+  "id": 515,
+  "name": "PacMan (Horror)",
+  "cover": "{COVER_URL}/515.png",
+  "url": "{HTML_URL}/515.html",
+  "author": "BerickCook",
+  "authorLink": "https://berickcook.itch.io/pacman",
+  "tags": [
+    "Horror",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

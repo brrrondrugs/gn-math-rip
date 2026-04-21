@@ -1,0 +1,18 @@
+{
+  "id": 501,
+  "name": "Kindergarten 3",
+  "cover": "{COVER_URL}/501.png",
+  "url": "{HTML_URL}/501.html",
+  "author": "Con Man Games, SmashGames and Sean Young",
+  "authorLink": "https://store.steampowered.com/app/2695570/Kindergarten_3/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

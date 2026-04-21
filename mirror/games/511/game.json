@@ -1,0 +1,13 @@
+{
+  "id": 511,
+  "name": "Doge Miner",
+  "cover": "{COVER_URL}/511.png",
+  "url": "{HTML_URL}/511.html",
+  "author": "rkn",
+  "authorLink": "https://www.patreon.com/dogeminer/about",
+  "tags": [
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

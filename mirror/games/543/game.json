@@ -1,0 +1,17 @@
+{
+  "id": 543,
+  "name": "Jelly Drift",
+  "cover": "{COVER_URL}/543.png",
+  "url": "{HTML_URL}/543-a.html",
+  "author": "DaniDev",
+  "authorLink": "https://danidev.itch.io/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

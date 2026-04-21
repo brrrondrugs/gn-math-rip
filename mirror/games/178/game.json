@@ -1,0 +1,17 @@
+{
+  "id": 178,
+  "name": "Swords and Souls",
+  "cover": "{COVER_URL}/178.png",
+  "url": "{HTML_URL}/178.html",
+  "author": "Armor Games",
+  "authorLink": "https://armorgames.com/play/17817/swords-and-souls",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "RPG",
+    "Fighting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

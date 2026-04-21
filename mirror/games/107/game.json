@@ -1,0 +1,17 @@
+{
+  "id": 107,
+  "name": "This Is The Only Level 2",
+  "cover": "{COVER_URL}/107.png",
+  "url": "{HTML_URL}/107.html",
+  "author": "jmtb02",
+  "authorLink": "https://jmtb02.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

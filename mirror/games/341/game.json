@@ -1,0 +1,17 @@
+{
+  "id": 341,
+  "name": "Learn to Fly 2",
+  "cover": "{COVER_URL}/341.png",
+  "url": "{HTML_URL}/341.html",
+  "author": "Light Bringer Games",
+  "authorLink": "http://lightbringergames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

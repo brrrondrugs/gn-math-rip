@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "name": "Tomodachi Collection",
+  "cover": "{COVER_URL}/510.png",
+  "url": "{HTML_URL}/510.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

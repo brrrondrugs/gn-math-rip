@@ -1,0 +1,14 @@
+{
+  "id": 368,
+  "name": "Slope 2",
+  "cover": "{COVER_URL}/368.png",
+  "url": "{HTML_URL}/368.html",
+  "author": "idfk",
+  "authorLink": "https://gn-math.github.io",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 307,
+  "name": "Rainbow Obby",
+  "cover": "{COVER_URL}/307.png",
+  "url": "{HTML_URL}/307.html",
+  "author": "emolingo games",
+  "authorLink": "https://emolingo.games",
+  "tags": [
+    "Platformer"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

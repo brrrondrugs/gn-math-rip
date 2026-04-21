@@ -1,0 +1,17 @@
+{
+  "id": 340,
+  "name": "Learn to Fly",
+  "cover": "{COVER_URL}/340.png",
+  "url": "{HTML_URL}/340.html",
+  "author": "Light Bringer Games",
+  "authorLink": "http://lightbringergames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 324,
+  "name": "Maze Speedrun",
+  "cover": "{COVER_URL}/324.png",
+  "url": "{HTML_URL}/324.html",
+  "author": "Raval Matic",
+  "authorLink": "https://www.ravalmatic.com",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

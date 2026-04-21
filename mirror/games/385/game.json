@@ -1,0 +1,13 @@
+{
+  "id": 385,
+  "name": "Destroy The Car 3D",
+  "cover": "{COVER_URL}/385.png",
+  "url": "{HTML_URL}/385.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

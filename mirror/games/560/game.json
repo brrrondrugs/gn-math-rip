@@ -1,0 +1,17 @@
+{
+  "id": 560,
+  "name": "Deltatraveler",
+  "cover": "{COVER_URL}/560.png",
+  "url": "{HTML_URL}/560.html",
+  "author": "VyletBunni",
+  "authorLink": "https://gamejolt.com/games/deltatraveler/661464",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

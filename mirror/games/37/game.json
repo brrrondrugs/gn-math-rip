@@ -1,0 +1,13 @@
+{
+  "id": 37,
+  "name": "Gobble",
+  "cover": "{COVER_URL}/37.png",
+  "url": "{HTML_URL}/37.html",
+  "author": "Fancade",
+  "authorLink": "https://fancade.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

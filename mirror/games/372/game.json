@@ -1,0 +1,14 @@
+{
+  "id": 372,
+  "name": "Stickman Boost",
+  "cover": "{COVER_URL}/372.png",
+  "url": "{HTML_URL}/372.html",
+  "author": "y8",
+  "authorLink": "https://www.y8.com/games/stickman_boost",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

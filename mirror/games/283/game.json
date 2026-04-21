@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "name": "Rooftop Snipers",
+  "cover": "{COVER_URL}/283.png",
+  "url": "{HTML_URL}/283.html",
+  "author": "New Eich Games",
+  "authorLink": "https://www.neweichgames.com",
+  "tags": [
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

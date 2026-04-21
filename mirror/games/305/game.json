@@ -1,0 +1,13 @@
+{
+  "id": 305,
+  "name": "Tanuki Sunset",
+  "cover": "{COVER_URL}/305.png",
+  "url": "{HTML_URL}/305.html",
+  "author": "Rewind Games",
+  "authorLink": "https://store.steampowered.com/app/1251460/Tanuki_Sunset/",
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

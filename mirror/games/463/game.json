@@ -1,0 +1,17 @@
+{
+  "id": 463,
+  "name": "Lacey's Flash Games",
+  "cover": "{COVER_URL}/463.png",
+  "url": "{HTML_URL}/463.html",
+  "author": "ghosttundra, Euroclipse, Brand New Groove",
+  "authorLink": "https://laceysflashgames.itch.io/laceys-flash-games",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 674,
+  "name": "Hobo 2",
+  "cover": "{COVER_URL}/674.png",
+  "url": "{HTML_URL}/674.html",
+  "author": "SeethingSwarm",
+  "authorLink": "https://seethingswarm.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

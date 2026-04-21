@@ -1,0 +1,17 @@
+{
+  "id": 457,
+  "name": "Raft",
+  "cover": "{COVER_URL}/457.png",
+  "url": "{HTML_URL}/457.html",
+  "author": "Redbeet Interactive, Axolot Games, Ashen Arrow",
+  "authorLink": "https://store.steampowered.com/app/648800/Raft",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Survival",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

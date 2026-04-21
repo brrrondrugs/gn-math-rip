@@ -1,0 +1,19 @@
+{
+  "id": 433,
+  "name": "Yume Nikki",
+  "cover": "{COVER_URL}/433.png",
+  "url": "{HTML_URL}/433.html",
+  "author": "kikiyama",
+  "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Adventure",
+    "RPG"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

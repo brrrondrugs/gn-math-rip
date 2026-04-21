@@ -1,0 +1,14 @@
+{
+  "id": 100,
+  "name": "Moto X3M Winter",
+  "cover": "{COVER_URL}/100.png",
+  "url": "{HTML_URL}/100-f.html",
+  "author": "MadPuffers",
+  "authorLink": "https://www.madpuffers.com",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

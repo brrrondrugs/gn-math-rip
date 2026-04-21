@@ -1,0 +1,14 @@
+{
+  "id": 550,
+  "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+  "cover": "{COVER_URL}/550.png",
+  "url": "{HTML_URL}/550.html",
+  "author": "Eukaryot3K and SEGA",
+  "authorLink": "https://sonic3air.org/",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

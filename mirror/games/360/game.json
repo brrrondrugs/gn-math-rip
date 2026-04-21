@@ -1,0 +1,13 @@
+{
+  "id": 360,
+  "name": "EvoWars.io",
+  "cover": "{COVER_URL}/360.png",
+  "url": "{HTML_URL}/360.html",
+  "author": "Night Steed S.C.",
+  "authorLink": "https://play.google.com/store/apps/dev?id=6316404222579633373",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "name": "Fear & Hunger",
+  "cover": "{COVER_URL}/706.png",
+  "url": "{HTML_URL}/706-fix.html",
+  "author": "Miro Haverinen, Happy Paintings",
+  "authorLink": "https://store.steampowered.com/app/1002300/Fear__Hunger/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

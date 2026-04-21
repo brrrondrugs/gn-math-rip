@@ -1,0 +1,14 @@
+{
+  "id": 578,
+  "name": "Stickman and Guns",
+  "cover": "{COVER_URL}/578.png",
+  "url": "{HTML_URL}/578.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 637,
+  "name": "BFDIA 5b",
+  "cover": "{COVER_URL}/637.png",
+  "url": "{HTML_URL}/637-f.html",
+  "author": "Cary Huang",
+  "authorLink": "https://x.com/realCarykh",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

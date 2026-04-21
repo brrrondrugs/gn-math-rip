@@ -1,0 +1,14 @@
+{
+  "id": 48,
+  "name": "Vex 3 XMAS",
+  "cover": "{COVER_URL}/48.png",
+  "url": "{HTML_URL}/48.html",
+  "author": "Lorenzo De Carlo",
+  "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

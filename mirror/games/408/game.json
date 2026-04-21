@@ -1,0 +1,13 @@
+{
+  "id": 408,
+  "name": "Telekinesis Attack",
+  "cover": "{COVER_URL}/408.png",
+  "url": "{HTML_URL}/408.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

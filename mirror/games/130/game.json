@@ -1,0 +1,13 @@
+{
+  "id": 130,
+  "name": "osu!",
+  "cover": "{COVER_URL}/130.png",
+  "url": "{HTML_URL}/130.html",
+  "author": "ppy",
+  "authorLink": "https://osu.ppy.sh/",
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

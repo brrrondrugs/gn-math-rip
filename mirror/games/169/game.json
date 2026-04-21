@@ -1,0 +1,13 @@
+{
+  "id": 169,
+  "name": "Bloxorz",
+  "cover": "{COVER_URL}/169.png",
+  "url": "{HTML_URL}/169.html",
+  "author": "Damien Clarke",
+  "authorLink": "https://damienclarke.me",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

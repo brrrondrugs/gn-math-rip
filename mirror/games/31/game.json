@@ -1,0 +1,13 @@
+{
+  "id": 31,
+  "name": "Color Match",
+  "cover": "{COVER_URL}/31.png",
+  "url": "{HTML_URL}/31.html",
+  "author": "Supersonic Studios LTD",
+  "authorLink": "https://play.google.com/store/apps/developer?id=Supersonic+Studios+LTD&hl=en_US",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

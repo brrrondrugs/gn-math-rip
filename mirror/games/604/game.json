@@ -1,0 +1,16 @@
+{
+  "id": 604,
+  "name": "Minesweeper Plus",
+  "cover": "{COVER_URL}/604.png",
+  "url": "{HTML_URL}/604-a.html",
+  "author": "Jorel Simpson",
+  "authorLink": "https://jorel-simpson.itch.io/minesweeper-plus",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

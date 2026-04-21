@@ -1,0 +1,14 @@
+{
+  "id": 527,
+  "name": "SpongeBob SquarePants: SpongeBob Run",
+  "cover": "{COVER_URL}/527.png",
+  "url": "{HTML_URL}/527.html",
+  "author": "Nickelodeon",
+  "authorLink": "https://nick.com",
+  "tags": [
+    "Endless",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 193,
+  "name": "Do NOT Take This Cat Home",
+  "cover": "{COVER_URL}/193.png",
+  "url": "{HTML_URL}/193.html",
+  "author": "Pixelliminal",
+  "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

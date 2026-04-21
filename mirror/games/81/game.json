@@ -1,0 +1,14 @@
+{
+  "id": 81,
+  "name": "Cluster Rush",
+  "cover": "{COVER_URL}/81.png",
+  "url": "{HTML_URL}/81.html",
+  "author": "Landfall",
+  "authorLink": "https://landfall.se",
+  "tags": [
+    "Action",
+    "Platformer"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

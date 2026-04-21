@@ -1,0 +1,17 @@
+{
+  "id": 232,
+  "name": "Plants vs Zombies",
+  "cover": "{COVER_URL}/232.png",
+  "url": "{HTML_URL}/232.html",
+  "author": "PopCap Games",
+  "authorLink": "https://www.ea.com/ea-studios/popcap/plants-vs-zombies",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Tower",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

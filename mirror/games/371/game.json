@@ -1,0 +1,14 @@
+{
+  "id": 371,
+  "name": "Stickman Fight Ragdoll",
+  "cover": "{COVER_URL}/371.png",
+  "url": "{HTML_URL}/371e.html",
+  "author": "Vanorium",
+  "authorLink": "https://playem.io/dev/vanorium",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

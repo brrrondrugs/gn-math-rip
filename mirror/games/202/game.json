@@ -1,0 +1,13 @@
+{
+  "id": 202,
+  "name": "Carrom Clash",
+  "cover": "{COVER_URL}/202.png",
+  "url": "{HTML_URL}/202.html",
+  "author": "GameSnacks",
+  "authorLink": "https://gamesnacks.com/games/carromclash",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

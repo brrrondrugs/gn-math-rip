@@ -1,0 +1,17 @@
+{
+  "id": 602,
+  "name": "Doom 2",
+  "cover": "{COVER_URL}/602.png",
+  "url": "{HTML_URL}/602.html",
+  "author": "id Software",
+  "authorLink": "https://www.idsoftware.com/",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

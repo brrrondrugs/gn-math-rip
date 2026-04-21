@@ -1,0 +1,13 @@
+{
+  "id": 108,
+  "name": "Tiny Fishing",
+  "cover": "{COVER_URL}/108.png",
+  "url": "{HTML_URL}/108.html",
+  "author": "Winter Studio",
+  "authorLink": "https://winterstudio.com/",
+  "tags": [
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

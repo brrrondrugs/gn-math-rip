@@ -1,0 +1,17 @@
+{
+  "id": 670,
+  "name": "Raldi's Crackhouse",
+  "cover": "{COVER_URL}/670.png",
+  "url": "{HTML_URL}/670.html",
+  "author": "RCHTeam, Grayson",
+  "authorLink": "https://gamejolt.com/games/raldicrackhouse/769103",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

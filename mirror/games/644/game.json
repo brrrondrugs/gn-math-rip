@@ -1,0 +1,16 @@
+{
+  "id": 644,
+  "name": "Friday Night Funkin vs Nonsense",
+  "cover": "{COVER_URL}/644.png",
+  "url": "{HTML_URL}/644.html",
+  "author": "NonsenseNH",
+  "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

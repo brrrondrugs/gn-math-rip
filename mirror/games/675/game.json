@@ -1,0 +1,17 @@
+{
+  "id": 675,
+  "name": "Hobo 3",
+  "cover": "{COVER_URL}/675.png",
+  "url": "{HTML_URL}/675.html",
+  "author": "SeethingSwarm",
+  "authorLink": "https://seethingswarm.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

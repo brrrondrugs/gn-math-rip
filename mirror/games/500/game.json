@@ -1,0 +1,13 @@
+{
+  "id": 500,
+  "name": "Friday Night Funkin': TWIDDLEFINGER",
+  "cover": "{COVER_URL}/500.png",
+  "url": "{HTML_URL}/500.html",
+  "author": "MAXPROLOVER998",
+  "authorLink": "https://gamebanana.com/mods/525021",
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

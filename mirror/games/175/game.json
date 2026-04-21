@@ -1,0 +1,17 @@
+{
+  "id": 175,
+  "name": "Run 1",
+  "cover": "{COVER_URL}/175.png",
+  "url": "{HTML_URL}/175.html",
+  "author": "Joseph Cloutier",
+  "authorLink": "https://player03.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

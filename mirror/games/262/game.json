@@ -1,0 +1,18 @@
+{
+  "id": 262,
+  "name": "Half Life",
+  "cover": "{COVER_URL}/262.png",
+  "url": "{HTML_URL}/262.html",
+  "author": "Valve",
+  "authorLink": "https://www.valvesoftware.com/en/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

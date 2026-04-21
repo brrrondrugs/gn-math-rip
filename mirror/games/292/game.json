@@ -1,0 +1,17 @@
+{
+  "id": 292,
+  "name": "Riddle Transfer",
+  "cover": "{COVER_URL}/292.png",
+  "url": "{HTML_URL}/292.html",
+  "author": "JonBro",
+  "authorLink": "https://jonbro.newgrounds.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

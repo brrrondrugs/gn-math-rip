@@ -1,0 +1,13 @@
+{
+  "id": 285,
+  "name": "Basket Bros",
+  "cover": "{COVER_URL}/285.png",
+  "url": "{HTML_URL}/285.html",
+  "author": "Blue Wizard Digital",
+  "authorLink": "https://bluewizard.com",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 187,
+  "name": "Papers, Please",
+  "cover": "{COVER_URL}/187.png",
+  "url": "{HTML_URL}/187.html",
+  "author": "Lucas Pope",
+  "authorLink": "https://dukope.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

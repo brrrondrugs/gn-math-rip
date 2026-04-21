@@ -1,0 +1,17 @@
+{
+  "id": 606,
+  "name": "Sonic.EXE (ORIGINAL)",
+  "cover": "{COVER_URL}/606.png",
+  "url": "{HTML_URL}/606-e.html",
+  "author": "MY5TCrimson",
+  "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

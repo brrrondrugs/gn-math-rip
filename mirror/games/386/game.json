@@ -1,0 +1,14 @@
+{
+  "id": 386,
+  "name": "Diamond Seeker",
+  "cover": "{COVER_URL}/386.png",
+  "url": "{HTML_URL}/386.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

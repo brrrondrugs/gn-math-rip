@@ -1,0 +1,14 @@
+{
+  "id": 58,
+  "name": "1v1.LoL",
+  "cover": "{COVER_URL}/58.png",
+  "url": "{HTML_URL}/58.html",
+  "author": "JustPlay.LOL",
+  "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

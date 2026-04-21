@@ -1,0 +1,18 @@
+{
+  "id": 607,
+  "name": "Tattletail",
+  "cover": "{COVER_URL}/607.png",
+  "url": "{HTML_URL}/607-e.html",
+  "author": "Waygetter Electronics, Ported by Snubby.top",
+  "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

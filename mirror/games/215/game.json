@@ -1,0 +1,18 @@
+{
+  "id": 215,
+  "name": "Bendy and the Ink Machine",
+  "cover": "{COVER_URL}/215.png",
+  "url": "{HTML_URL}/215.html",
+  "author": "Joey Drew Studios",
+  "authorLink": "https://www.joeydrewstudios.com/batim",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

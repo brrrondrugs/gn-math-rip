@@ -1,0 +1,13 @@
+{
+  "id": 146,
+  "name": "8 Ball Classic",
+  "cover": "{COVER_URL}/146.png",
+  "url": "{HTML_URL}/146.html",
+  "author": "Famobi",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.eightballbilliardsclassic",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

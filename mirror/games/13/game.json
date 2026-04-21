@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "name": "Attack Hole",
+  "cover": "{COVER_URL}/13.png",
+  "url": "{HTML_URL}/13.html",
+  "author": "Homa Games",
+  "authorLink": "https://www.homagames.com",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

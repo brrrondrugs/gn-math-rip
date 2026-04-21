@@ -1,0 +1,14 @@
+{
+  "id": 347,
+  "name": "SpiderDoll",
+  "cover": "{COVER_URL}/347.png",
+  "url": "{HTML_URL}/347.html",
+  "author": "Ysopprod",
+  "authorLink": "https://ysopprod.newgrounds.com",
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

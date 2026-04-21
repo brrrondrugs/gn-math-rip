@@ -1,0 +1,17 @@
+{
+  "id": 336,
+  "name": "Fancy Pants Adventure 4 Part 1",
+  "cover": "{COVER_URL}/336.png",
+  "url": "{HTML_URL}/336.html",
+  "author": "Brad Borne",
+  "authorLink": "https://www.bornegames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

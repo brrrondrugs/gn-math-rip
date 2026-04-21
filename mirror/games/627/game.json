@@ -1,0 +1,13 @@
+{
+  "id": 627,
+  "name": "Tag",
+  "cover": "{COVER_URL}/627.png",
+  "url": "{HTML_URL}/627.html",
+  "author": "WeLoPlay",
+  "authorLink": "https://www.weloplay.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

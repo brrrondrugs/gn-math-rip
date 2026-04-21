@@ -1,0 +1,13 @@
+{
+  "id": 519,
+  "name": "Generic Fighter Maybe",
+  "cover": "{COVER_URL}/519.png",
+  "url": "{HTML_URL}/519.html",
+  "author": "Astrobard Games, Khao Mortadios",
+  "authorLink": "https://astrobardgames.itch.io/generic-fighter-maybe",
+  "tags": [
+    "Fighting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

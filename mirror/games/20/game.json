@@ -1,0 +1,14 @@
+{
+  "id": 20,
+  "name": "Tall Man Run",
+  "cover": "{COVER_URL}/20.png",
+  "url": "{HTML_URL}/20a.html",
+  "author": "Supersonic Studios LTD",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun",
+  "tags": [
+    "Endless",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

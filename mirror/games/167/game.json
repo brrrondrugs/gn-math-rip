@@ -1,0 +1,14 @@
+{
+  "id": 167,
+  "name": "Blade Ball",
+  "cover": "{COVER_URL}/167.png",
+  "url": "{HTML_URL}/167.html",
+  "author": "??",
+  "authorLink": "",
+  "tags": [
+    "Action",
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 84,
+  "name": "Cubefield",
+  "cover": "{COVER_URL}/84.png",
+  "url": "{HTML_URL}/84.html",
+  "author": "Max Abernethy",
+  "authorLink": "https://max-abernethy.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

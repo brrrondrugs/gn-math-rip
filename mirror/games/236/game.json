@@ -1,0 +1,17 @@
+{
+  "id": 236,
+  "name": "Duck Life 3",
+  "cover": "{COVER_URL}/236.png",
+  "url": "{HTML_URL}/236.html",
+  "author": "Mad.com",
+  "authorLink": "https://mad.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "RPG",
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

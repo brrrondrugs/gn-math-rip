@@ -1,0 +1,17 @@
+{
+  "id": 335,
+  "name": "Fancy Pants Adventure 3",
+  "cover": "{COVER_URL}/335.png",
+  "url": "{HTML_URL}/335.html",
+  "author": "Brad Borne",
+  "authorLink": "https://www.bornegames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

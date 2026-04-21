@@ -1,0 +1,14 @@
+{
+  "id": 94,
+  "name": "Journey Downhill",
+  "cover": "{COVER_URL}/94.png",
+  "url": "{HTML_URL}/94.html",
+  "author": "Megagon Industries",
+  "authorLink": "https://megagonindustries.com/",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

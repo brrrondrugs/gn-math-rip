@@ -1,0 +1,17 @@
+{
+  "id": 239,
+  "name": "Red Ball",
+  "cover": "{COVER_URL}/239.png",
+  "url": "{HTML_URL}/239.html",
+  "author": "Yohoho Games",
+  "authorLink": "https://yohoho.games",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

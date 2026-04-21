@@ -1,0 +1,13 @@
+{
+  "id": 317,
+  "name": "sandspiel",
+  "cover": "{COVER_URL}/317.png",
+  "url": "{HTML_URL}/317.html",
+  "author": "maxbittker",
+  "authorLink": "https://x.com/maxbittker",
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

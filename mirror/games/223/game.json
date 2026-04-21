@@ -1,0 +1,17 @@
+{
+  "id": 223,
+  "name": "Papa's Freezeria",
+  "cover": "{COVER_URL}/223.png",
+  "url": "{HTML_URL}/223.html",
+  "author": "Flipline Studios",
+  "authorLink": "https://www.flipline.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

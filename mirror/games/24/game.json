@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "name": "Crossy Road",
+  "cover": "{COVER_URL}/24.png",
+  "url": "{HTML_URL}/24.html",
+  "author": "Hipster Whale",
+  "authorLink": "https://www.hipsterwhale.com",
+  "tags": [
+    "Endless",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

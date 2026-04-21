@@ -1,0 +1,17 @@
+{
+  "id": 667,
+  "name": "In Stars and Time",
+  "cover": "{COVER_URL}/667.png",
+  "url": "{HTML_URL}/667-fix.html",
+  "author": "insertdisc5",
+  "authorLink": "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

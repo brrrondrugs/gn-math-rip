@@ -1,0 +1,13 @@
+{
+  "id": 664,
+  "name": "Tall.io",
+  "cover": "{COVER_URL}/664.png",
+  "url": "{HTML_URL}/664.html",
+  "author": "Playgama",
+  "authorLink": "https://playgama.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

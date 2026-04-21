@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "name": "Gladihoppers",
+  "cover": "{COVER_URL}/4.png",
+  "url": "{HTML_URL}/4.html",
+  "author": "Dreamon Studios",
+  "authorLink": "https://dreamonstudios.itch.io/gladihoppers",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

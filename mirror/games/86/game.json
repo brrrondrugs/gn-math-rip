@@ -1,0 +1,14 @@
+{
+  "id": 86,
+  "name": "Draw Climber",
+  "cover": "{COVER_URL}/86.png",
+  "url": "{HTML_URL}/86.html",
+  "author": "VOODOO",
+  "authorLink": "https://voodoo.io",
+  "tags": [
+    "Action",
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

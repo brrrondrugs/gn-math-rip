@@ -1,0 +1,14 @@
+{
+  "id": 402,
+  "name": "Office Fight",
+  "cover": "{COVER_URL}/402.png",
+  "url": "{HTML_URL}/402.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

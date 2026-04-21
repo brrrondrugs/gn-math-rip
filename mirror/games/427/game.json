@@ -1,0 +1,19 @@
+{
+  "id": 427,
+  "name": "OMORI",
+  "cover": "{COVER_URL}/427.png",
+  "url": "{HTML_URL}/427-z.html",
+  "author": "Omocat",
+  "authorLink": "https://omocat.com",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Horror",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

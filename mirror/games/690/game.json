@@ -1,0 +1,16 @@
+{
+  "id": 690,
+  "name": "Friday Night Funkin': AKAGE",
+  "cover": "{COVER_URL}/690.png",
+  "url": "{HTML_URL}/690.html",
+  "author": "owoskitty etc",
+  "authorLink": "https://gamebanana.com/mods/578842",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

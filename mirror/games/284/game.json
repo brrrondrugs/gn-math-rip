@@ -1,0 +1,14 @@
+{
+  "id": 284,
+  "name": "War The Knights",
+  "cover": "{COVER_URL}/284.png",
+  "url": "{HTML_URL}/284.html",
+  "author": "BANZAI",
+  "authorLink": "https://banzai.games/en/",
+  "tags": [
+    "Strategy",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

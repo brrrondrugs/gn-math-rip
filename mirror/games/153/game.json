@@ -1,0 +1,14 @@
+{
+  "id": 153,
+  "name": "Flappy Dunk",
+  "cover": "{COVER_URL}/153.png",
+  "url": "{HTML_URL}/153.html",
+  "author": "Voodoo",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.acidcousins.fdunk",
+  "tags": [
+    "Sports",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

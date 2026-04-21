@@ -1,0 +1,17 @@
+{
+  "id": 628,
+  "name": "Pizza Tower: Scoutdigo",
+  "cover": "{COVER_URL}/628.png",
+  "url": "{HTML_URL}/628-f.html",
+  "author": "only1indigo, burnedpopcorn",
+  "authorLink": "https://gamebanana.com/wips/75923",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 200,
+  "name": "Time Shooter 2",
+  "cover": "{COVER_URL}/200.png",
+  "url": "{HTML_URL}/200.html",
+  "author": "g80g",
+  "authorLink": "https://g80g.com",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 557,
+  "name": "Getting Over It with Bennett Foddy",
+  "cover": "{COVER_URL}/557.png",
+  "url": "{HTML_URL}/557.html",
+  "author": "Bennett Foddy",
+  "authorLink": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

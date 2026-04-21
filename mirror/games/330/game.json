@@ -1,0 +1,14 @@
+{
+  "id": 330,
+  "name": "BitPlanes",
+  "cover": "{COVER_URL}/330.png",
+  "url": "{HTML_URL}/330.html",
+  "author": "Anton Medvedev",
+  "authorLink": "https://medv.io",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

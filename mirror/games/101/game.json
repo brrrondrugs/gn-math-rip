@@ -1,0 +1,14 @@
+{
+  "id": 101,
+  "name": "Ninja vs EvilCorp",
+  "cover": "{COVER_URL}/101.png",
+  "url": "{HTML_URL}/101.html",
+  "author": "Rémi Vansteelandt",
+  "authorLink": "https://remvst.com",
+  "tags": [
+    "Action",
+    "Platformer"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

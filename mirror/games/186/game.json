@@ -1,0 +1,14 @@
+{
+  "id": 186,
+  "name": "Ragdoll Archers",
+  "cover": "{COVER_URL}/186.png",
+  "url": "{HTML_URL}/186.html",
+  "author": "Ericetto",
+  "authorLink": "https://www.snokido.com/author/ericetto",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

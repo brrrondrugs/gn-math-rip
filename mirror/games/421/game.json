@@ -1,0 +1,14 @@
+{
+  "id": 421,
+  "name": "Rich Run 3D",
+  "cover": "{COVER_URL}/421.png",
+  "url": "{HTML_URL}/421.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

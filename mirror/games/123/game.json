@@ -1,0 +1,13 @@
+{
+  "id": 123,
+  "name": "Poly Track",
+  "cover": "{COVER_URL}/123.png",
+  "url": "{HTML_URL}/123-win.html",
+  "author": "Kodub",
+  "authorLink": "https://www.kodub.com",
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

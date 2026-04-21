@@ -1,0 +1,16 @@
+{
+  "id": 688,
+  "name": "Peggle",
+  "cover": "{COVER_URL}/688.png",
+  "url": "{HTML_URL}/688.html",
+  "author": "PopCap Games",
+  "authorLink": "https://store.steampowered.com/app/3480/Peggle_Deluxe/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

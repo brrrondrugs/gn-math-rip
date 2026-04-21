@@ -1,0 +1,14 @@
+{
+  "id": 109,
+  "name": "Tomb Of The Mask",
+  "cover": "{COVER_URL}/109.png",
+  "url": "{HTML_URL}/109.html",
+  "author": "Happymagenta UAB",
+  "authorLink": "https://happymagenta.com/",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

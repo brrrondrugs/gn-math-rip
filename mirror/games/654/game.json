@@ -1,0 +1,14 @@
+{
+  "id": 654,
+  "name": "Final Fantasy VII",
+  "cover": "{COVER_URL}/654.png",
+  "url": "{HTML_URL}/654.html",
+  "author": "Square Enix",
+  "authorLink": "https://ffvii.square-enix-games.com/en-us",
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

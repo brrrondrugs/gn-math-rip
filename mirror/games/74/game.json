@@ -1,0 +1,17 @@
+{
+  "id": 74,
+  "name": "Bloons TD 4",
+  "cover": "{COVER_URL}/74.png",
+  "url": "{HTML_URL}/74.html",
+  "author": "Ninja Kiwi",
+  "authorLink": "https://ninjakiwi.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Tower",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

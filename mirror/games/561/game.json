@@ -1,0 +1,13 @@
+{
+  "id": 561,
+  "name": "BitGun.io",
+  "cover": "{COVER_URL}/561.png",
+  "url": "{HTML_URL}/561.html",
+  "author": "Hazmob",
+  "authorLink": "https://www.crazygames.com/game/bit-gun-io",
+  "tags": [
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

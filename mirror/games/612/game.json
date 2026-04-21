@@ -1,0 +1,19 @@
+{
+  "id": 612,
+  "name": "The Legend of Zelda Majora's Mask",
+  "cover": "{COVER_URL}/612.png",
+  "url": "{HTML_URL}/612.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "emulator",
+    "n64"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

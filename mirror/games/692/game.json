@@ -1,0 +1,17 @@
+{
+  "id": 692,
+  "name": "Kirby ~ Soft & Wet",
+  "cover": "{COVER_URL}/692.png",
+  "url": "{HTML_URL}/692.html",
+  "author": "Strimp's Kitchen",
+  "authorLink": "https://strimps-kitchen.itch.io/kirby-soft-and-wet",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

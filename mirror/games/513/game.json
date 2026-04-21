@@ -1,0 +1,13 @@
+{
+  "id": 513,
+  "name": "Swordfight!!",
+  "cover": "{COVER_URL}/513.png",
+  "url": "{HTML_URL}/513.html",
+  "author": "Studio-19",
+  "authorLink": "https://studio-19.itch.io/swordfight",
+  "tags": [
+    "Fighting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

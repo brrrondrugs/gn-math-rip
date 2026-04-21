@@ -1,0 +1,14 @@
+{
+  "id": 299,
+  "name": "Minecraft Beta 1.3",
+  "cover": "{COVER_URL}/299.png",
+  "url": "{HTML_URL}/299.html",
+  "author": "lax1dude",
+  "authorLink": "https://eaglercraft.com",
+  "tags": [
+    "Survival",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

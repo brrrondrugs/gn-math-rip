@@ -1,0 +1,17 @@
+{
+  "id": 62,
+  "name": "Achievement Unlocked 3",
+  "cover": "{COVER_URL}/62.png",
+  "url": "{HTML_URL}/62.html",
+  "author": "jmtb02",
+  "authorLink": "https://jmtb02.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

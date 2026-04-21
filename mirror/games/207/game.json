@@ -1,0 +1,13 @@
+{
+  "id": 207,
+  "name": "Snowbattle.io",
+  "cover": "{COVER_URL}/207.png",
+  "url": "{HTML_URL}/207.html",
+  "author": "Royalec/Tokyo",
+  "authorLink": "https://google.com/search?q=Tokyo+Royalec",
+  "tags": [
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

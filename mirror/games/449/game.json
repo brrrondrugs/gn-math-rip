@@ -1,0 +1,13 @@
+{
+  "id": 449,
+  "name": "City Smash",
+  "cover": "{COVER_URL}/449.png",
+  "url": "{HTML_URL}/449.html",
+  "author": "Paradyme Games",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.citysmash",
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

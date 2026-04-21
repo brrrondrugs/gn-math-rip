@@ -1,0 +1,17 @@
+{
+  "id": 95,
+  "name": "Line Rider",
+  "cover": "{COVER_URL}/95.png",
+  "url": "{HTML_URL}/95.html",
+  "author": "Boštjan Čadež",
+  "authorLink": "https://fsk.deviantart.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

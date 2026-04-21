@@ -1,0 +1,14 @@
+{
+  "id": 55,
+  "name": "Vex X3M",
+  "cover": "{COVER_URL}/55.png",
+  "url": "{HTML_URL}/55.html",
+  "author": "Lorenzo De Carlo",
+  "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo",
+  "tags": [
+    "Platformer",
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

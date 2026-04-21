@@ -1,0 +1,14 @@
+{
+  "id": 159,
+  "name": "Parking Rush",
+  "cover": "{COVER_URL}/159.png",
+  "url": "{HTML_URL}/159.html",
+  "author": "Nine&Nine",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.tianninenine.parkingrush",
+  "tags": [
+    "Puzzle",
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

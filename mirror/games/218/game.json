@@ -1,0 +1,17 @@
+{
+  "id": 218,
+  "name": "Papa's Bakeria",
+  "cover": "{COVER_URL}/218.png",
+  "url": "{HTML_URL}/218.html",
+  "author": "Flipline Studios",
+  "authorLink": "https://www.flipline.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

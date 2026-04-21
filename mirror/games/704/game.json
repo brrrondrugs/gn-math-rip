@@ -1,0 +1,17 @@
+{
+  "id": 704,
+  "name": "Five Nights at Freddy's: World Refreshed",
+  "cover": "{COVER_URL}/704.png",
+  "url": "{HTML_URL}/704-fix.html",
+  "author": "Pyturret, Willowy (squall.cc)",
+  "authorLink": "https://squall.cc?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

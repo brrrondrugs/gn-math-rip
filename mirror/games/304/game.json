@@ -1,0 +1,17 @@
+{
+  "id": 304,
+  "name": "Alien Hominid",
+  "cover": "{COVER_URL}/304.png",
+  "url": "{HTML_URL}/304.html",
+  "author": "Tom Fulp, Dan Paladin",
+  "authorLink": "https://www.newgrounds.com/portal/view/59593",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

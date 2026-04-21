@@ -1,0 +1,17 @@
+{
+  "id": 80,
+  "name": "Cannon Basketball 2",
+  "cover": "{COVER_URL}/80.png",
+  "url": "{HTML_URL}/80.html",
+  "author": "Oleh \"qzix13\" Kuzyk",
+  "authorLink": "https://ua.linkedin.com/in/olehkuzyk",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Sports",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

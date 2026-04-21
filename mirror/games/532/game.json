@@ -1,0 +1,14 @@
+{
+  "id": 532,
+  "name": "SpongeBob SquarePants: WereSquirrel",
+  "cover": "{COVER_URL}/532.png",
+  "url": "{HTML_URL}/532.html",
+  "author": "Nickelodeon",
+  "authorLink": "https://nick.com",
+  "tags": [
+    "Action",
+    "Horror"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

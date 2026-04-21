@@ -1,0 +1,16 @@
+{
+  "id": 633,
+  "name": "Friday Night Funkin': VS. Impostor: Alternated",
+  "cover": "{COVER_URL}/633.png",
+  "url": "{HTML_URL}/633.html",
+  "author": "Alternated team",
+  "authorLink": "https://gamebanana.com/mods/598215",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

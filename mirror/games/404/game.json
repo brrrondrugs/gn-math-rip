@@ -1,0 +1,13 @@
+{
+  "id": 404,
+  "name": "Seat Jam 3D",
+  "cover": "{COVER_URL}/404.png",
+  "url": "{HTML_URL}/404.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

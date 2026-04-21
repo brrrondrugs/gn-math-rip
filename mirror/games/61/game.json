@@ -1,0 +1,17 @@
+{
+  "id": 61,
+  "name": "Achievement Unlocked 2",
+  "cover": "{COVER_URL}/61.png",
+  "url": "{HTML_URL}/61.html",
+  "author": "jmtb02",
+  "authorLink": "https://jmtb02.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

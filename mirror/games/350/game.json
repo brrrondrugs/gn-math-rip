@@ -1,0 +1,17 @@
+{
+  "id": 350,
+  "name": "Binding of Issac: Wrath of the Lamb",
+  "cover": "{COVER_URL}/350.png",
+  "url": "{HTML_URL}/350.html",
+  "author": "Edmund McMillen",
+  "authorLink": "https://store.steampowered.com/app/113204/Binding_of_Isaac_Wrath_of_the_Lamb/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "RPG"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

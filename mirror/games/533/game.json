@@ -1,0 +1,13 @@
+{
+  "id": 533,
+  "name": "SpongeBob SquarePants: Krabby Katch",
+  "cover": "{COVER_URL}/533.png",
+  "url": "{HTML_URL}/533.html",
+  "author": "Nickelodeon",
+  "authorLink": "https://nick.com",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

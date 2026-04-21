@@ -1,0 +1,17 @@
+{
+  "id": 46,
+  "name": "Vex 2",
+  "cover": "{COVER_URL}/46.png",
+  "url": "{HTML_URL}/46.html",
+  "author": "Lorenzo De Carlo",
+  "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

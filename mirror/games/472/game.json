@@ -1,0 +1,14 @@
+{
+  "id": 472,
+  "name": "Bad Time Simulator",
+  "cover": "{COVER_URL}/472.png",
+  "url": "{HTML_URL}/472.html",
+  "author": "jcw87",
+  "authorLink": "https://jcw87.github.io/c2-sans-fight/",
+  "tags": [
+    "Action",
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

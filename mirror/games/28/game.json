@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "name": "Basketball Frvr",
+  "cover": "{COVER_URL}/28.png",
+  "url": "{HTML_URL}/28.html",
+  "author": "FRVR",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.frvr.basketball",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 180,
+  "name": "n-gon",
+  "cover": "{COVER_URL}/180.png",
+  "url": "{HTML_URL}/180.html",
+  "author": "landgreen",
+  "authorLink": "https://github.com/landgreen/n-gon",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

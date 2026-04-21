@@ -1,0 +1,13 @@
+{
+  "id": 540,
+  "name": "myTeardrop",
+  "cover": "{COVER_URL}/540.png",
+  "url": "{HTML_URL}/540.html",
+  "author": "VENDORMINT",
+  "authorLink": "https://x.com/vendormint",
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

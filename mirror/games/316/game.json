@@ -1,0 +1,14 @@
+{
+  "id": 316,
+  "name": "Angry Birds Chrome",
+  "cover": "{COVER_URL}/316.png",
+  "url": "{HTML_URL}/316.html",
+  "author": "Rovio",
+  "authorLink": "https://rovio.com",
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 297,
+  "name": "Minecraft 1.5.2",
+  "cover": "{COVER_URL}/297.png",
+  "url": "{HTML_URL}/297.html",
+  "author": "lax1dude",
+  "authorLink": "https://eaglercraft.com",
+  "tags": [
+    "Survival",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

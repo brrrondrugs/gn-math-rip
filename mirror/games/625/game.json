@@ -1,0 +1,13 @@
+{
+  "id": 625,
+  "name": "Get Yoked",
+  "cover": "{COVER_URL}/625.png",
+  "url": "{HTML_URL}/625.html",
+  "author": "gregs games",
+  "authorLink": "https://gregs-games.itch.io/get-yoked-2",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 54,
+  "name": "Vex Challenges",
+  "cover": "{COVER_URL}/54.png",
+  "url": "{HTML_URL}/54.html",
+  "author": "Lorenzo De Carlo",
+  "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

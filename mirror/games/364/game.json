@@ -1,0 +1,14 @@
+{
+  "id": 364,
+  "name": "Idle Mining Empire",
+  "cover": "{COVER_URL}/364.png",
+  "url": "{HTML_URL}/364.html",
+  "author": "marketjs",
+  "authorLink": "https://www.marketjs.com/",
+  "tags": [
+    "Clicker",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

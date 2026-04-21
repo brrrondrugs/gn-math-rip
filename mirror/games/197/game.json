@@ -1,0 +1,13 @@
+{
+  "id": 197,
+  "name": "Elastic Man",
+  "cover": "{COVER_URL}/197.png",
+  "url": "{HTML_URL}/197.html",
+  "author": "David Li",
+  "authorLink": "https://david.li",
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 104,
+  "name": "The World's Hardest Game 3",
+  "cover": "{COVER_URL}/104.png",
+  "url": "{HTML_URL}/104.html",
+  "author": "Stevie Critoph",
+  "authorLink": "https://stephencritoph.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

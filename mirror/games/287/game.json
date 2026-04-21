@@ -1,0 +1,17 @@
+{
+  "id": 287,
+  "name": "Riddle School",
+  "cover": "{COVER_URL}/287.png",
+  "url": "{HTML_URL}/287.html",
+  "author": "JonBro",
+  "authorLink": "https://jonbro.newgrounds.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

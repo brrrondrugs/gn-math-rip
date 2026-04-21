@@ -1,0 +1,17 @@
+{
+  "id": 455,
+  "name": "BERGENTRUCK 201x",
+  "cover": "{COVER_URL}/455.png",
+  "url": "{HTML_URL}/455.html",
+  "author": "Paledoptera",
+  "authorLink": "https://gamejolt.com/games/bergentruck/1007556",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 376,
+  "name": "Build a Big Army",
+  "cover": "{COVER_URL}/376.png",
+  "url": "{HTML_URL}/376.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

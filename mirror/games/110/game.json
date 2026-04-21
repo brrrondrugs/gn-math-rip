@@ -1,0 +1,17 @@
+{
+  "id": 110,
+  "name": "Toss The Turtle",
+  "cover": "{COVER_URL}/110.png",
+  "url": "{HTML_URL}/110-f.html",
+  "author": "GonzoSSM",
+  "authorLink": "https://gonzossm.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Action",
+    "Clicker"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

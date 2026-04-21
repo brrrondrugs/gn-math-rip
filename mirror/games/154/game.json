@@ -1,0 +1,13 @@
+{
+  "id": 154,
+  "name": "Fork n Sausage",
+  "cover": "{COVER_URL}/154.png",
+  "url": "{HTML_URL}/154.html",
+  "author": "SayGames",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.kadka.forknsausage",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

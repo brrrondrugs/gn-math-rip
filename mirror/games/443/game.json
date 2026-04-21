@@ -1,0 +1,14 @@
+{
+  "id": 443,
+  "name": "Adventure Drivers",
+  "cover": "{COVER_URL}/443.png",
+  "url": "{HTML_URL}/443.html",
+  "author": "Domas Kazragis",
+  "authorLink": "https://poki.com/en/g/adventure-drivers",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

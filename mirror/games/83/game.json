@@ -1,0 +1,13 @@
+{
+  "id": 83,
+  "name": "Coreball",
+  "cover": "{COVER_URL}/83.png",
+  "url": "{HTML_URL}/83.html",
+  "author": "Ben Vinegar",
+  "authorLink": "https://benv.ca/",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

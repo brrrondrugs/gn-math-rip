@@ -1,0 +1,14 @@
+{
+  "id": 314,
+  "name": "Super Mario 63",
+  "cover": "{COVER_URL}/314.png",
+  "url": "{HTML_URL}/314.html",
+  "author": "Runouw",
+  "authorLink": "https://runouw.com/games/",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

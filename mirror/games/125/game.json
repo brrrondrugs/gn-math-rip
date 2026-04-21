@@ -1,0 +1,14 @@
+{
+  "id": 125,
+  "name": "Granny 2",
+  "cover": "{COVER_URL}/125.png",
+  "url": "{HTML_URL}/125.html",
+  "author": "DVloper",
+  "authorLink": "https://play.google.com/store/apps/developer?id=DVloper&hl=en_US",
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

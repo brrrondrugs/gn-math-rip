@@ -1,0 +1,16 @@
+{
+  "id": 700,
+  "name": "FNF vs Pibby Corrupted",
+  "cover": "{COVER_URL}/700.png",
+  "url": "{HTML_URL}/700.html",
+  "author": "Pibby Corrupted team",
+  "authorLink": "https://gamebanana.com/mods/download/344757",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

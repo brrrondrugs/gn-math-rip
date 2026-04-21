@@ -1,0 +1,16 @@
+{
+  "id": 259,
+  "name": "Class of '09",
+  "cover": "{COVER_URL}/259.png",
+  "url": "{HTML_URL}/259.html",
+  "author": "sbn3",
+  "authorLink": "https://sbn3.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

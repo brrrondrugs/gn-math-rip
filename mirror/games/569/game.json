@@ -1,0 +1,13 @@
+{
+  "id": 569,
+  "name": "Hula Hoop Race",
+  "cover": "{COVER_URL}/569.png",
+  "url": "{HTML_URL}/569.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

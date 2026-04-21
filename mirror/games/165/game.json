@@ -1,0 +1,13 @@
+{
+  "id": 165,
+  "name": "Cheese Chompers 3D",
+  "cover": "{COVER_URL}/165.png",
+  "url": "{HTML_URL}/165.html",
+  "author": "NavaNoid",
+  "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

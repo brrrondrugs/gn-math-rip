@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "name": "Five Nights at Epstein's",
+  "cover": "{COVER_URL}/710.png",
+  "url": "{HTML_URL}/710-fix.html",
+  "author": "EvanProductions",
+  "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

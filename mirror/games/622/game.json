@@ -1,0 +1,19 @@
+{
+  "id": 622,
+  "name": "Oneshot (LEGACY)",
+  "cover": "{COVER_URL}/622.png",
+  "url": "{HTML_URL}/622.html",
+  "author": "Future Cat LLC, ARandomPerson",
+  "authorLink": "https://store.steampowered.com/app/420530/OneShot/",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "tags": [
+    "RPG",
+    "Adventure",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

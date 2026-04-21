@@ -1,0 +1,16 @@
+{
+  "id": 507,
+  "name": "The Impossible Quiz",
+  "cover": "{COVER_URL}/507.png",
+  "url": "{HTML_URL}/507.html",
+  "author": "SPLAPP-ME-DO",
+  "authorLink": "https://splapp-me-do.newgrounds.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

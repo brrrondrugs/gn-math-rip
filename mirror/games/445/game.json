@@ -1,0 +1,19 @@
+{
+  "id": 445,
+  "name": "Kindergarten",
+  "cover": "{COVER_URL}/445.png",
+  "url": "{HTML_URL}/445.html",
+  "author": "Con Man Games, SmashGames and Sean Young",
+  "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

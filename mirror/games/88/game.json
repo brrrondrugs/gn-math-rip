@@ -1,0 +1,17 @@
+{
+  "id": 88,
+  "name": "Fireboy and Watergirl 2",
+  "cover": "{COVER_URL}/88.png",
+  "url": "{HTML_URL}/88.html",
+  "author": "Oslo Albet",
+  "authorLink": "https://www.osloalbet.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

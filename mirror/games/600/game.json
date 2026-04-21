@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "name": "FNF Vs. Hypno's Lullaby v2",
+  "cover": "{COVER_URL}/600.png",
+  "url": "{HTML_URL}/600.html",
+  "author": "Hypno's Lullaby Team",
+  "authorLink": "https://gamebanana.com/wips/73522",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

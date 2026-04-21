@@ -1,0 +1,17 @@
+{
+  "id": 599,
+  "name": "Metal Gear Solid",
+  "cover": "{COVER_URL}/599.png",
+  "url": "{HTML_URL}/599.html",
+  "author": " Konami Computer Entertainment Japan",
+  "authorLink": "https://www.konami.com/",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Action",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

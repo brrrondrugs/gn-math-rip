@@ -1,0 +1,13 @@
+{
+  "id": 148,
+  "name": "Archery World Tour",
+  "cover": "{COVER_URL}/148.png",
+  "url": "{HTML_URL}/148.html",
+  "author": "Famobi",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.archeryworldtour",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

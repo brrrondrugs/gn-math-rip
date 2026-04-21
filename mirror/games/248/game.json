@@ -1,0 +1,17 @@
+{
+  "id": 248,
+  "name": "Wheely 4",
+  "cover": "{COVER_URL}/248.png",
+  "url": "{HTML_URL}/248.html",
+  "author": "Pegas Games",
+  "authorLink": "http://www.pegasgames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

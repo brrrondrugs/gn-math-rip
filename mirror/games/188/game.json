@@ -1,0 +1,14 @@
+{
+  "id": 188,
+  "name": "Scrap Metal 3",
+  "cover": "{COVER_URL}/188.png",
+  "url": "{HTML_URL}/188e.html",
+  "author": "Ciorbyn",
+  "authorLink": "https://www.ciorbynstudio.com",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

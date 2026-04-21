@@ -1,0 +1,14 @@
+{
+  "id": 118,
+  "name": "Solar Smash",
+  "cover": "{COVER_URL}/118.png",
+  "url": "{HTML_URL}/118.html",
+  "author": "Paradyme Games",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.solarsmash&hl=en_US",
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

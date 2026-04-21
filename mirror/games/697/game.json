@@ -1,0 +1,14 @@
+{
+  "id": 697,
+  "name": "Bank Robbery",
+  "cover": "{COVER_URL}/697.png",
+  "url": "{HTML_URL}/697.html",
+  "author": "justaliendev",
+  "authorLink": "https://www.crazygames.com/game/bank-robbery",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

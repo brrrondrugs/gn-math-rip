@@ -1,0 +1,17 @@
+{
+  "id": 244,
+  "name": "Red Ball 4 Vol. 3",
+  "cover": "{COVER_URL}/244.png",
+  "url": "{HTML_URL}/244.html",
+  "author": "Yohoho Games",
+  "authorLink": "https://yohoho.games",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

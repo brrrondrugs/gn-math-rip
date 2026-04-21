@@ -1,0 +1,14 @@
+{
+  "id": 129,
+  "name": "Flappy Bird",
+  "cover": "{COVER_URL}/129.png",
+  "url": "{HTML_URL}/129.html",
+  "author": "Dong Nguyen",
+  "authorLink": "https://x.com/dongatory",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

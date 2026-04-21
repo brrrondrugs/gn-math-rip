@@ -1,0 +1,17 @@
+{
+  "id": 503,
+  "name": "Five Nights at Candy's",
+  "cover": "{COVER_URL}/503.png",
+  "url": "{HTML_URL}/503.html",
+  "author": "Emil \"Ace\" Macko",
+  "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-official/70253",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

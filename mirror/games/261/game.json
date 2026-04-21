@@ -1,0 +1,13 @@
+{
+  "id": 261,
+  "name": "Fruit Ninja",
+  "cover": "{COVER_URL}/261.png",
+  "url": "{HTML_URL}/261.html",
+  "author": "Halfbrick Studios",
+  "authorLink": "https://www.halfbrick.com/games/fruit-ninja-classic",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

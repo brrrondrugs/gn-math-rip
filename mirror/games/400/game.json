@@ -1,0 +1,14 @@
+{
+  "id": 400,
+  "name": "Money Rush",
+  "cover": "{COVER_URL}/400.png",
+  "url": "{HTML_URL}/400.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 296,
+  "name": "Play!.js",
+  "cover": "{COVER_URL}/296.png",
+  "url": "{HTML_URL}/296.html",
+  "author": "jpd002",
+  "authorLink": "https://github.com/jpd002/Play-",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

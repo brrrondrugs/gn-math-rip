@@ -1,0 +1,17 @@
+{
+  "id": 423,
+  "name": "WebFishing",
+  "cover": "{COVER_URL}/423.png",
+  "url": "{HTML_URL}/423.html",
+  "author": "LameDev",
+  "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

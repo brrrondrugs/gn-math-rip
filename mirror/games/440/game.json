@@ -1,0 +1,14 @@
+{
+  "id": 440,
+  "name": "Celeste PICO",
+  "cover": "{COVER_URL}/440.png",
+  "url": "{HTML_URL}/440.html",
+  "author": "Matt Thorson and Noel Berry",
+  "authorLink": "https://www.lexaloffle.com/bbs/?tid=2145",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

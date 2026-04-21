@@ -1,0 +1,14 @@
+{
+  "id": 264,
+  "name": "Escape Road",
+  "cover": "{COVER_URL}/264.png",
+  "url": "{HTML_URL}/264.html",
+  "author": "AzGames",
+  "authorLink": "https://azgames.io/escape-road",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

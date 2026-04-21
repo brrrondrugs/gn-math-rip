@@ -1,0 +1,16 @@
+{
+  "id": 610,
+  "name": "Friday Night Funkin vs Carol V2",
+  "cover": "{COVER_URL}/610.png",
+  "url": "{HTML_URL}/610.html",
+  "author": "Carol V2 team",
+  "authorLink": "https://gamebanana.com/mods/42811",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

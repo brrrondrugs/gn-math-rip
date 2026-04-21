@@ -1,0 +1,18 @@
+{
+  "id": 626,
+  "name": "Doom 3",
+  "cover": "{COVER_URL}/626.png",
+  "url": "{HTML_URL}/626-f.html",
+  "author": "id Software, 98corbins",
+  "authorLink": "https://www.idsoftware.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Shooting",
+    "Horror",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

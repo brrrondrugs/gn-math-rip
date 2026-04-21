@@ -1,0 +1,14 @@
+{
+  "id": 384,
+  "name": "Destiny Run 3D",
+  "cover": "{COVER_URL}/384.png",
+  "url": "{HTML_URL}/384.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

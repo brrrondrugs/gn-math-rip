@@ -1,0 +1,19 @@
+{
+  "id": 191,
+  "name": "Five Nights at Freddy's: Pizza Simulator",
+  "cover": "{COVER_URL}/191.png",
+  "url": "{HTML_URL}/191.html",
+  "author": "Scott Cawthon",
+  "authorLink": "https://scottgames.com",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

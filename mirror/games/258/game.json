@@ -1,0 +1,17 @@
+{
+  "id": 258,
+  "name": "A Bite at Freddy's",
+  "cover": "{COVER_URL}/258.png",
+  "url": "{HTML_URL}/258.html",
+  "author": "Garrett McKay",
+  "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

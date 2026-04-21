@@ -1,0 +1,17 @@
+{
+  "id": 105,
+  "name": "The World's Hardest Game 4",
+  "cover": "{COVER_URL}/105.png",
+  "url": "{HTML_URL}/105.html",
+  "author": "Stevie Critoph",
+  "authorLink": "https://stephencritoph.com/",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

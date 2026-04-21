@@ -1,0 +1,18 @@
+{
+  "id": 267,
+  "name": "Pizza Tower",
+  "cover": "{COVER_URL}/267.png",
+  "url": "{HTML_URL}/267.html",
+  "author": "Tour De Pizza, BurnedPopcorn",
+  "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

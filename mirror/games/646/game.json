@@ -1,0 +1,17 @@
+{
+  "id": 646,
+  "name": "Buster Jam",
+  "cover": "{COVER_URL}/646.png",
+  "url": "{HTML_URL}/646-fixed.html",
+  "author": "TALL GLASS",
+  "authorLink": "https://www.tallglassgames.com/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Action",
+    "Fighting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

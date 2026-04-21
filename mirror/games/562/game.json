@@ -1,0 +1,13 @@
+{
+  "id": 562,
+  "name": "Boom Slingers: Reboom",
+  "cover": "{COVER_URL}/562.png",
+  "url": "{HTML_URL}/562.html",
+  "author": "Boom Corp",
+  "authorLink": "https://www.boomslingers.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

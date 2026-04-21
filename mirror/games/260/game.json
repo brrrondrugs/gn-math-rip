@@ -1,0 +1,17 @@
+{
+  "id": 260,
+  "name": "RE:RUN",
+  "cover": "{COVER_URL}/260.png",
+  "url": "{HTML_URL}/260.html",
+  "author": "DaniDev",
+  "authorLink": "https://danidev.itch.io/rerun",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

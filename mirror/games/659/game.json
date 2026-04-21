@@ -1,0 +1,17 @@
+{
+  "id": 659,
+  "name": "Orange Roulette",
+  "cover": "{COVER_URL}/659.png",
+  "url": "{HTML_URL}/659.html",
+  "author": "Matzerath",
+  "authorLink": "https://www.newgrounds.com/portal/view/596354",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

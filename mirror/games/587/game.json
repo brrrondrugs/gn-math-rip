@@ -1,0 +1,16 @@
+{
+  "id": 587,
+  "name": "Newgrounds Rumble",
+  "cover": "{COVER_URL}/587.png",
+  "url": "{HTML_URL}/587.html",
+  "author": "NegativeONE, Luis, MindChamber",
+  "authorLink": "https://www.newgrounds.com/portal/view/381115",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Fighting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

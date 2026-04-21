@@ -1,0 +1,16 @@
+{
+  "id": 469,
+  "name": "sandstone",
+  "cover": "{COVER_URL}/469.png",
+  "url": "{HTML_URL}/469.html",
+  "author": "ading2210",
+  "authorLink": "https://github.com/ading2210/sandstone",
+  "special": [
+    "tools"
+  ],
+  "tags": [
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

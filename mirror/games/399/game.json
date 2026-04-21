@@ -1,0 +1,14 @@
+{
+  "id": 399,
+  "name": "Mega Car Jumps",
+  "cover": "{COVER_URL}/399.png",
+  "url": "{HTML_URL}/399.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

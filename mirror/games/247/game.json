@@ -1,0 +1,17 @@
+{
+  "id": 247,
+  "name": "Wheely 3",
+  "cover": "{COVER_URL}/247.png",
+  "url": "{HTML_URL}/247.html",
+  "author": "Pegas Games",
+  "authorLink": "http://www.pegasgames.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

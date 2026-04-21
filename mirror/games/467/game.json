@@ -1,0 +1,19 @@
+{
+  "id": 467,
+  "name": "Baldi's Basics Plus",
+  "cover": "{COVER_URL}/467.png",
+  "url": "{HTML_URL}/467-updatee.html",
+  "author": "Basically Games",
+  "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

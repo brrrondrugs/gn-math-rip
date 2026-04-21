@@ -1,0 +1,14 @@
+{
+  "id": 359,
+  "name": "Daily Dadish",
+  "cover": "{COVER_URL}/359.png",
+  "url": "{HTML_URL}/359.html",
+  "author": "Thomas K. Young",
+  "authorLink": "https://x.com/tommy_ill",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

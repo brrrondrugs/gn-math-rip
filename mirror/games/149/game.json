@@ -1,0 +1,14 @@
+{
+  "id": 149,
+  "name": "Ball Blast",
+  "cover": "{COVER_URL}/149.png",
+  "url": "{HTML_URL}/149.html",
+  "author": "Voodoo",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

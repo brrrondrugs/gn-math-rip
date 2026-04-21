@@ -1,0 +1,17 @@
+{
+  "id": 227,
+  "name": "Papa's Pizeria",
+  "cover": "{COVER_URL}/227.png",
+  "url": "{HTML_URL}/227.html",
+  "author": "Flipline Studios",
+  "authorLink": "https://www.flipline.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

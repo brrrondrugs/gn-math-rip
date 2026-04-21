@@ -1,0 +1,17 @@
+{
+  "id": 680,
+  "name": "Kirby Super Star Ultra",
+  "cover": "{COVER_URL}/680.png",
+  "url": "{HTML_URL}/680.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

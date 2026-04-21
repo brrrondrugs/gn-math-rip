@@ -1,0 +1,14 @@
+{
+  "id": 93,
+  "name": "Johnny Trigger",
+  "cover": "{COVER_URL}/93.png",
+  "url": "{HTML_URL}/93.html",
+  "author": "SayGames",
+  "authorLink": "https://say.games",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

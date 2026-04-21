@@ -1,0 +1,14 @@
+{
+  "id": 595,
+  "name": "Shapez.io",
+  "cover": "{COVER_URL}/595.png",
+  "url": "{HTML_URL}/595.html",
+  "author": "scriptwelder",
+  "authorLink": "https://scriptwelder.itch.io/waterworks",
+  "tags": [
+    "Strategy",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

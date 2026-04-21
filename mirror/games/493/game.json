@@ -1,0 +1,14 @@
+{
+  "id": 493,
+  "name": "RigBMX",
+  "cover": "{COVER_URL}/493.png",
+  "url": "{HTML_URL}/493.html",
+  "author": "Cartoon Network",
+  "authorLink": "https://www.cartoonnetwork.com",
+  "tags": [
+    "Racing",
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 279,
+  "name": "Madalin Stunt Cars 3",
+  "cover": "{COVER_URL}/279.png",
+  "url": "{HTML_URL}/279.html",
+  "author": "Madalin Games",
+  "authorLink": "https://www.madalingames.com",
+  "tags": [
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

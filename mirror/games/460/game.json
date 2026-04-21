@@ -1,0 +1,17 @@
+{
+  "id": 460,
+  "name": "Fears to Fathom: Home Alone",
+  "cover": "{COVER_URL}/460.png",
+  "url": "{HTML_URL}/460.html",
+  "author": "Rayll",
+  "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

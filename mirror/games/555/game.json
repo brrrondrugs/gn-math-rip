@@ -1,0 +1,13 @@
+{
+  "id": 555,
+  "name": "Friday Night Funkin VS. KAPI",
+  "cover": "{COVER_URL}/555.png",
+  "url": "{HTML_URL}/555.html",
+  "author": "paperkitty etc",
+  "authorLink": "https://gamebanana.com/mods/44683",
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

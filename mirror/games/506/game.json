@@ -1,0 +1,17 @@
+{
+  "id": 506,
+  "name": "Pokemon Emerald",
+  "cover": "{COVER_URL}/506.png",
+  "url": "{HTML_URL}/506.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

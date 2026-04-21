@@ -1,0 +1,17 @@
+{
+  "id": 234,
+  "name": "Duck Life",
+  "cover": "{COVER_URL}/234.png",
+  "url": "{HTML_URL}/234.html",
+  "author": "Mad.com",
+  "authorLink": "https://mad.com",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "RPG",
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

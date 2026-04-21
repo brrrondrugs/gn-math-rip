@@ -1,0 +1,18 @@
+{
+  "id": 696,
+  "name": "Pokemon HeartGold",
+  "cover": "{COVER_URL}/696.png",
+  "url": "{HTML_URL}/696.html",
+  "author": "Nintendo",
+  "authorLink": "https://www.nintendo.com/",
+  "special": [
+    "emulator",
+    "nds"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

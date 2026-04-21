@@ -1,0 +1,17 @@
+{
+  "id": 641,
+  "name": "Godzilla Daikaiju Battle Royale",
+  "cover": "{COVER_URL}/641.png",
+  "url": "{HTML_URL}/641.html",
+  "author": "AWM Studio Productions LLC",
+  "authorLink": "https://archive.org/details/gdbr_20210915",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

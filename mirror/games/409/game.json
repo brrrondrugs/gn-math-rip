@@ -1,0 +1,14 @@
+{
+  "id": 409,
+  "name": "Telekinesis Car",
+  "cover": "{COVER_URL}/409.png",
+  "url": "{HTML_URL}/409.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

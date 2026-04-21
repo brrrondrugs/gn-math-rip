@@ -1,0 +1,17 @@
+{
+  "id": 450,
+  "name": "Amanda the Adventurer",
+  "cover": "{COVER_URL}/450.png",
+  "url": "{HTML_URL}/450.html",
+  "author": "MANGLEDmaw Games, DreadXP",
+  "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

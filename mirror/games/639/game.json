@@ -1,0 +1,16 @@
+{
+  "id": 639,
+  "name": "Friday Night Funkin' VS Impostor B-Sides",
+  "cover": "{COVER_URL}/639.png",
+  "url": "{HTML_URL}/639.html",
+  "author": "Imposter b-sides team",
+  "authorLink": "https://gamebanana.com/mods/504519",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

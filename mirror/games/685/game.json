@@ -1,0 +1,16 @@
+{
+  "id": 685,
+  "name": "FIFA 11",
+  "cover": "{COVER_URL}/685.png",
+  "url": "{HTML_URL}/685.html",
+  "author": "EA Sports",
+  "authorLink": "https://ea.com",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

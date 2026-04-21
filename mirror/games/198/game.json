@@ -1,0 +1,14 @@
+{
+  "id": 198,
+  "name": "Slope",
+  "cover": "{COVER_URL}/198.png",
+  "url": "{HTML_URL}/198.html",
+  "author": "coweggs",
+  "authorLink": "https://coweggs.itch.io/slope-plus",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

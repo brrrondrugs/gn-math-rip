@@ -1,0 +1,18 @@
+{
+  "id": 195,
+  "name": "R.E.P.O",
+  "cover": "{COVER_URL}/195.png",
+  "url": "{HTML_URL}/195.html",
+  "author": "semiwork, 98corbins",
+  "authorLink": "https://store.steampowered.com/app/3241660/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

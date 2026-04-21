@@ -1,0 +1,14 @@
+{
+  "id": 338,
+  "name": "Getaway Shootout",
+  "cover": "{COVER_URL}/338.png",
+  "url": "{HTML_URL}/338.html",
+  "author": "New Eich Games",
+  "authorLink": "https://www.neweichgames.com",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

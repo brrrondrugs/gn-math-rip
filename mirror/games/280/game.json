@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "name": "Papery Planes",
+  "cover": "{COVER_URL}/280.png",
+  "url": "{HTML_URL}/280.html",
+  "author": "Akos Makovics",
+  "authorLink": "http://akos-makovics.com",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

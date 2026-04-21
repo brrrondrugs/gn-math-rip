@@ -1,0 +1,13 @@
+{
+  "id": 155,
+  "name": "Guess Their Answer",
+  "cover": "{COVER_URL}/155.png",
+  "url": "{HTML_URL}/155.html",
+  "author": "TapNation",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.qoni.guesstheiranswer",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

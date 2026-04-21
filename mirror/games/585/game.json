@@ -1,0 +1,17 @@
+{
+  "id": 585,
+  "name": "Fallout",
+  "cover": "{COVER_URL}/585.png",
+  "url": "{HTML_URL}/585.html",
+  "author": "Bethesda Softworks",
+  "authorLink": "https://bethesda.net/en/dashboard",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40,
+  "name": "Five Nights at Freddy's 3",
+  "cover": "{COVER_URL}/40.png",
+  "url": "{HTML_URL}/40.html",
+  "author": "Scott Cawthon",
+  "authorLink": "https://scottgames.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

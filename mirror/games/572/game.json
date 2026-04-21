@@ -1,0 +1,13 @@
+{
+  "id": 572,
+  "name": "Lazy Jumper",
+  "cover": "{COVER_URL}/572.png",
+  "url": "{HTML_URL}/572.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

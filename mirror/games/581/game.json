@@ -1,0 +1,13 @@
+{
+  "id": 581,
+  "name": "BuildNow.gg",
+  "cover": "{COVER_URL}/581.png",
+  "url": "{HTML_URL}/581.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 592,
+  "name": "Pac Man World",
+  "cover": "{COVER_URL}/592.png",
+  "url": "{HTML_URL}/592.html",
+  "author": "Full Fat Games",
+  "authorLink": "https://www.full-fat.com/",
+  "special": [
+    "emulator"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

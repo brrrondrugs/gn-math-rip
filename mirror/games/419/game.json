@@ -1,0 +1,14 @@
+{
+  "id": 419,
+  "name": "Weapon Upgrade Rush",
+  "cover": "{COVER_URL}/419.png",
+  "url": "{HTML_URL}/419.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

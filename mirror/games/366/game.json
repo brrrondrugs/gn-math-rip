@@ -1,0 +1,14 @@
+{
+  "id": 366,
+  "name": "Merge Harvest",
+  "cover": "{COVER_URL}/366.png",
+  "url": "{HTML_URL}/366.html",
+  "author": "idfk",
+  "authorLink": "https://gn-math.github.io",
+  "tags": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

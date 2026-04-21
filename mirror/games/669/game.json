@@ -1,0 +1,19 @@
+{
+  "id": 669,
+  "name": "Terraria",
+  "cover": "{COVER_URL}/669.png",
+  "url": "{HTML_URL}/669.html",
+  "author": "Re-Logic, Mercury Workshop",
+  "authorLink": "https://terraria.org/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Survival",
+    "Adventure",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

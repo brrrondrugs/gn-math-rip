@@ -1,0 +1,13 @@
+{
+  "id": 257,
+  "name": "Google Baseball",
+  "cover": "{COVER_URL}/257.png",
+  "url": "{HTML_URL}/257.html",
+  "author": "Google",
+  "authorLink": "https://google.com",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

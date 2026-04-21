@@ -1,0 +1,16 @@
+{
+  "id": 634,
+  "name": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
+  "cover": "{COVER_URL}/634.png",
+  "url": "{HTML_URL}/634.html",
+  "author": "Fleetway team",
+  "authorLink": "https://gamebanana.com/mods/359046",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

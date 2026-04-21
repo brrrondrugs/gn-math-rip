@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+  "cover": "{COVER_URL}/601.png",
+  "url": "{HTML_URL}/601.html",
+  "author": "FNF Vs. Sonic.EXE Team",
+  "authorLink": "https://gamebanana.com/mods/531361",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 689,
+  "name": "Meatboy",
+  "cover": "{COVER_URL}/689.png",
+  "url": "{HTML_URL}/689.html",
+  "author": "Jonathan McEntee",
+  "authorLink": "https://www.newgrounds.com/portal/view/463241",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

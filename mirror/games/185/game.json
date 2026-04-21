@@ -1,0 +1,18 @@
+{
+  "id": 185,
+  "name": "Five Nights at Freddy's: Sister Location",
+  "cover": "{COVER_URL}/185.png",
+  "url": "{HTML_URL}/185.html",
+  "author": "Scott Cawthon",
+  "authorLink": "https://scottgames.com",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

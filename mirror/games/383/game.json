@@ -1,0 +1,14 @@
+{
+  "id": 383,
+  "name": "Crush Cars 3D",
+  "cover": "{COVER_URL}/383.png",
+  "url": "{HTML_URL}/383.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

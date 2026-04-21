@@ -1,0 +1,13 @@
+{
+  "id": 529,
+  "name": "SpongeBob SquarePants: Sandy's Sponge Stacker",
+  "cover": "{COVER_URL}/529.png",
+  "url": "{HTML_URL}/529.html",
+  "author": "Nickelodeon",
+  "authorLink": "https://nick.com",
+  "tags": [
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

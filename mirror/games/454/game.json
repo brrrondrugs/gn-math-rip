@@ -1,0 +1,17 @@
+{
+  "id": 454,
+  "name": "BLOODMONEY!",
+  "cover": "{COVER_URL}/454.png",
+  "url": "{HTML_URL}/454.html",
+  "author": "SHROOMYCHRIST-STUDIOS",
+  "authorLink": "https://shroomychrist-studios.itch.io/bloodmoney",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

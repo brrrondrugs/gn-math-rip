@@ -1,0 +1,14 @@
+{
+  "id": 21,
+  "name": "Turbo Stars",
+  "cover": "{COVER_URL}/21.png",
+  "url": "{HTML_URL}/21.html",
+  "author": "https://play.google.com/store/apps/details?id=com.turbo.stars",
+  "authorLink": "SayGames",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

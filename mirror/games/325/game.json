@@ -1,0 +1,14 @@
+{
+  "id": 325,
+  "name": "Kitchen Bazar",
+  "cover": "{COVER_URL}/325.png",
+  "url": "{HTML_URL}/325.html",
+  "author": "Gameloft",
+  "authorLink": "https://www.gameloft.com",
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

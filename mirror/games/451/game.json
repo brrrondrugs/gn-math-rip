@@ -1,0 +1,17 @@
+{
+  "id": 451,
+  "name": "Slender: The 8 Pages",
+  "cover": "{COVER_URL}/451.png",
+  "url": "{HTML_URL}/451.html",
+  "author": "Parsec Productions",
+  "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

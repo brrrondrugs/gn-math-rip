@@ -1,0 +1,14 @@
+{
+  "id": 576,
+  "name": "Sky Riders",
+  "cover": "{COVER_URL}/576.png",
+  "url": "{HTML_URL}/576.html",
+  "author": "CrazyGames",
+  "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Action",
+    "Racing"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

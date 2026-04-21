@@ -1,0 +1,17 @@
+{
+  "id": 693,
+  "name": "Half Life: Opposing Force",
+  "cover": "{COVER_URL}/693.png",
+  "url": "{HTML_URL}/693.html",
+  "author": "Valve",
+  "authorLink": "https://www.valvesoftware.com/en/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

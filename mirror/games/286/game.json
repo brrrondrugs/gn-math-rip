@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "name": "Endoparasitic",
+  "cover": "{COVER_URL}/286.png",
+  "url": "{HTML_URL}/286.html",
+  "author": "Deep Root Interactive",
+  "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Survival",
+    "Shooting"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

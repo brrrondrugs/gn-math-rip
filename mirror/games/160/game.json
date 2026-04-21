@@ -1,0 +1,14 @@
+{
+  "id": 160,
+  "name": "Race Master 3D",
+  "cover": "{COVER_URL}/160.png",
+  "url": "{HTML_URL}/160.html",
+  "author": "Beresnev Games",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.easygames.race",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

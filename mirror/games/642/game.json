@@ -1,0 +1,16 @@
+{
+  "id": 642,
+  "name": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+  "cover": "{COVER_URL}/642.png",
+  "url": "{HTML_URL}/642.html",
+  "author": "Rookies team",
+  "authorLink": "https://gamebanana.com/mods/503587",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

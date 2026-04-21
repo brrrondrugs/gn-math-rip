@@ -1,0 +1,14 @@
+{
+  "id": 358,
+  "name": "Dadish 3D",
+  "cover": "{COVER_URL}/358.png",
+  "url": "{HTML_URL}/358.html",
+  "author": "Thomas K. Young",
+  "authorLink": "https://x.com/tommy_ill",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 459,
+  "name": "The Man In The Window",
+  "cover": "{COVER_URL}/459.png",
+  "url": "{HTML_URL}/459.html",
+  "author": "Zed Technician",
+  "authorLink": "https://zed-technician.itch.io/the-man-from-the-window",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 403,
+  "name": "Robot Invasion",
+  "cover": "{COVER_URL}/403.png",
+  "url": "{HTML_URL}/403.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 611,
+  "name": "The Legend of Zelda Ocarina of Time",
+  "cover": "{COVER_URL}/611.png",
+  "url": "{HTML_URL}/611.html",
+  "author": "Nintendo",
+  "authorLink": "https://nintendo.com",
+  "special": [
+    "emulator",
+    "n64"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure",
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

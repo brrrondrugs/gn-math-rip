@@ -1,0 +1,18 @@
+{
+  "id": 605,
+  "name": "Schoolboy Runaway",
+  "cover": "{COVER_URL}/605.png",
+  "url": "{HTML_URL}/605-e.html",
+  "author": "Linked Squad",
+  "authorLink": "https://linked-squad.com/",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "tags": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

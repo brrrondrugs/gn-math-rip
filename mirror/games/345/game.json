@@ -1,0 +1,17 @@
+{
+  "id": 345,
+  "name": "Raft Wars 2",
+  "cover": "{COVER_URL}/345.png",
+  "url": "{HTML_URL}/345.html",
+  "author": "GaZZer Game",
+  "authorLink": "https://play.google.com/store/apps/dev?id=8915125137205442318",
+  "special": [
+    "flash"
+  ],
+  "tags": [
+    "Shooting",
+    "Strategy"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

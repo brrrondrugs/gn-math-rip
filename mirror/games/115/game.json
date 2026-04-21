@@ -1,0 +1,13 @@
+{
+  "id": 115,
+  "name": "8 Ball Pool",
+  "cover": "{COVER_URL}/115.png",
+  "url": "{HTML_URL}/115.html",
+  "author": "Miniclip.com",
+  "authorLink": "https://miniclip.com/",
+  "tags": [
+    "Sports"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

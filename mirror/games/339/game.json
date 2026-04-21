@@ -1,0 +1,13 @@
+{
+  "id": 339,
+  "name": "House of Hazards",
+  "cover": "{COVER_URL}/339.png",
+  "url": "{HTML_URL}/339.html",
+  "author": "New Eich Games",
+  "authorLink": "https://www.neweichgames.com",
+  "tags": [
+    "Action"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 618,
+  "name": "FNF vs Bob v2.0 (Bob's Onslaught)",
+  "cover": "{COVER_URL}/618.png",
+  "url": "{HTML_URL}/618.html",
+  "author": "bob v2.0 team",
+  "authorLink": "https://gamebanana.com/mods/621085",
+  "special": [
+    "fnf"
+  ],
+  "tags": [
+    "Rhythm"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

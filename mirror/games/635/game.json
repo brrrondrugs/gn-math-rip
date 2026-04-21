@@ -1,0 +1,15 @@
+{
+  "id": 635,
+  "name": "Spelunky Classic HD",
+  "cover": "{COVER_URL}/635.png",
+  "url": "{HTML_URL}/635.html",
+  "author": " nkrapivin",
+  "authorLink": "https://yancharkin.itch.io/spelunky-classic-hd",
+  "tags": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

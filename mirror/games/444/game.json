@@ -1,0 +1,14 @@
+{
+  "id": 444,
+  "name": "Ages of Conflict",
+  "cover": "{COVER_URL}/444.png",
+  "url": "{HTML_URL}/444.html",
+  "author": "JoySpark Games",
+  "authorLink": "https://play.google.com/store/apps/details?id=com.JoySparkGames.AgesofConflict",
+  "tags": [
+    "Strategy",
+    "Simulation"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

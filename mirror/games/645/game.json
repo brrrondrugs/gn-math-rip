@@ -1,0 +1,17 @@
+{
+  "id": 645,
+  "name": "Arthur's Nightmare",
+  "cover": "{COVER_URL}/645.png",
+  "url": "{HTML_URL}/645-e.html",
+  "author": "Varun R.",
+  "authorLink": "https://varunramesh.itch.io/arthurs-nightmare",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

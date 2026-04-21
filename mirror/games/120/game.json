@@ -1,0 +1,14 @@
+{
+  "id": 120,
+  "name": "Fortzone Battle Royale",
+  "cover": "{COVER_URL}/120.png",
+  "url": "{HTML_URL}/120.html",
+  "author": "Mirra Games",
+  "authorLink": "https://mirragames.com/",
+  "tags": [
+    "Shooting",
+    "Survival"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

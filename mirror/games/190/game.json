@@ -1,0 +1,17 @@
+{
+  "id": 190,
+  "name": "Five Nights at Freddy's: World",
+  "cover": "{COVER_URL}/190.png",
+  "url": "{HTML_URL}/190.html",
+  "author": "Scott Cawthon",
+  "authorLink": "https://scottgames.com",
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "RPG",
+    "Adventure"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

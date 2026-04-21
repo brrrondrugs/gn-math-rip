@@ -1,0 +1,18 @@
+{
+  "id": 216,
+  "name": "That's Not My Neighbor",
+  "cover": "{COVER_URL}/216.png",
+  "url": "{HTML_URL}/216.html",
+  "author": "Nacho Games",
+  "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}
