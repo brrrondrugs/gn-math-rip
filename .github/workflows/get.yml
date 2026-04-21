@@ -1,3 +1,4 @@
+```yaml
 name: Sync GN Math Zone Mirror
 
 on:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,41 +22,33 @@ jobs:
         with:
           node-version: 22
 
-      - name: Mirror zones, covers, and html
+      - name: Mirror games into structured folders
         run: |
           node <<'EOF'
           const fs = require('node:fs');
           const path = require('node:path');
 
           const outRoot = path.join(process.cwd(), 'mirror');
-          const outZones = path.join(outRoot, 'zones');
-          const outCovers = path.join(outRoot, 'covers');
-          const outHtml = path.join(outRoot, 'html');
+          const outGames = path.join(outRoot, 'games');
 
-          for (const dir of [outRoot, outZones, outCovers, outHtml]) {
-            fs.mkdirSync(dir, { recursive: true });
-          }
+          fs.mkdirSync(outGames, { recursive: true });
 
           const zonesurls = [
-            'https://cdn.jsdelivr.net/gh/sealiee11/gnmathstuff@main/zones.json?t=1776731587897',
-            'https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json?t=',
+            'https://cdn.jsdelivr.net/gh/sealiee11/gnmathstuff@main/zones.json',
+            'https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json'
           ];
 
           const coverURL = 'https://cdn.jsdelivr.net/gh/freebuisness/covers@main';
           const htmlURL = 'https://cdn.jsdelivr.net/gh/freebuisness/html@main';
 
           async function fetchText(url) {
-            const res = await fetch(url, {
-              headers: { 'user-agent': 'zones-mirror-bot' }
-            });
+            const res = await fetch(url, { headers: { 'user-agent': 'mirror-bot' } });
             if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
             return res.text();
           }
 
           async function fetchBuffer(url) {
-            const res = await fetch(url, {
-              headers: { 'user-agent': 'zones-mirror-bot' }
-            });
+            const res = await fetch(url, { headers: { 'user-agent': 'mirror-bot' } });
             if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
             const ab = await res.arrayBuffer();
             return Buffer.from(ab);
@@ -76,8 +70,8 @@ jobs:
             let chosen = zonesurls[Math.floor(Math.random() * zonesurls.length)];
 
             try {
-              const commits = await fetch('https://api.github.com/repos/gn-math/assets/commits?t=' + Date.now(), {
-                headers: { 'user-agent': 'zones-mirror-bot' }
+              const commits = await fetch('https://api.github.com/repos/gn-math/assets/commits', {
+                headers: { 'user-agent': 'mirror-bot' }
               });
               if (commits.ok) {
                 const json = await commits.json();
@@ -96,55 +90,85 @@ jobs:
             const zonesRaw = await fetchText(usedZonesUrl + '?t=' + Date.now());
             const zones = JSON.parse(zonesRaw);
 
-            fs.writeFileSync(path.join(outZones, 'zones.json'), JSON.stringify(zones, null, 2));
-
             const manifest = {
               generatedAt: new Date().toISOString(),
               source: usedZonesUrl,
-              coverURL,
-              htmlURL,
               total: zones.length,
-              downloaded: { covers: 0, html: 0, external: 0, errors: [] }
+              downloaded: { games: 0, errors: [] }
             };
+
+            const index = [];
 
             for (const zone of zones) {
               const id = String(zone.id ?? 'unknown');
+              const gameDir = path.join(outGames, id);
+
+              fs.mkdirSync(gameDir, { recursive: true });
 
               try {
+                // COVER
                 if (zone.cover) {
                   const cover = zoneUrl(zone.cover);
-                  const coverBuf = await fetchBuffer(cover + (cover.includes('?') ? '&' : '?') + 't=' + Date.now());
-                  const coverExt = extFromUrl(cover, '.img');
-                  fs.writeFileSync(path.join(outCovers, `${id}${coverExt}`), coverBuf);
-                  manifest.downloaded.covers += 1;
-                }
-              } catch (err) {
-                manifest.downloaded.errors.push({ id, type: 'cover', message: String(err?.message || err) });
-              }
+                  const coverBuf = await fetchBuffer(cover + '?t=' + Date.now());
+                  const ext = extFromUrl(cover, '.img');
 
-              try {
+                  const coverName = `cover${ext}`;
+                  fs.writeFileSync(path.join(gameDir, coverName), coverBuf);
+
+                  zone.localCover = coverName;
+                }
+
+                // HTML
                 if (zone.url) {
                   const resolved = zoneUrl(zone.url);
-                  const isExternal = /^https?:\/\//i.test(zone.url);
-                  const body = await fetchText(resolved + (resolved.includes('?') ? '&' : '?') + 't=' + Date.now());
+                  const html = await fetchText(resolved + '?t=' + Date.now());
 
-                  if (isExternal) {
-                    fs.writeFileSync(path.join(outHtml, `${id}.external.html`), body);
-                    manifest.downloaded.external += 1;
-                  } else {
-                    fs.writeFileSync(path.join(outHtml, `${id}.html`), body);
-                    manifest.downloaded.html += 1;
-                  }
+                  const htmlName = 'index.html';
+                  fs.writeFileSync(path.join(gameDir, htmlName), html);
+
+                  zone.localHtml = htmlName;
                 }
+
+                // GAME JSON
+                fs.writeFileSync(
+                  path.join(gameDir, 'game.json'),
+                  JSON.stringify(zone, null, 2)
+                );
+
+                index.push({
+                  id,
+                  name: zone.name || 'unknown',
+                  folder: `games/${id}`
+                });
+
+                manifest.downloaded.games += 1;
+
               } catch (err) {
-                manifest.downloaded.errors.push({ id, type: 'html', message: String(err?.message || err) });
+                manifest.downloaded.errors.push({
+                  id,
+                  message: String(err?.message || err)
+                });
               }
             }
 
-            fs.writeFileSync(path.join(outRoot, 'manifest.json'), JSON.stringify(manifest, null, 2));
-            console.log(`Mirrored ${zones.length} zones`);
-            console.log(JSON.stringify(manifest.downloaded, null, 2));
-          })().catch((err) => {
+            // SAVE GLOBAL FILES
+            fs.writeFileSync(
+              path.join(outRoot, 'zones.json'),
+              JSON.stringify(zones, null, 2)
+            );
+
+            fs.writeFileSync(
+              path.join(outRoot, 'index.json'),
+              JSON.stringify(index, null, 2)
+            );
+
+            fs.writeFileSync(
+              path.join(outRoot, 'manifest.json'),
+              JSON.stringify(manifest, null, 2)
+            );
+
+            console.log(`Mirrored ${zones.length} games`);
+          })().catch(err => {
             console.error(err);
             process.exit(1);
           });
@@ -153,13 +177,20 @@ jobs:
       - name: Commit and push
         run: |
           if git diff --quiet && git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
             exit 0
           fi
+
           git add mirror
+
           if git diff --cached --quiet; then
-            echo "No staged changes"
+            echo "Nothing staged"
             exit 0
           fi
-          git commit -m "chore: sync GN Math zone mirror"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: sync game mirror"
           git push
+```
