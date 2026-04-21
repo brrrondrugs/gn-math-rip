@@ -1,12 +1,8 @@
+
 name: Sync GN Math Zone Mirror
 
 on:
   workflow_dispatch:
-    inputs:
-      force:
-        description: "Force run (ignore no-change check)"
-        required: false
-        default: "true"
   schedule:
     - cron: "17 */6 * * *"
 
@@ -37,6 +33,7 @@ jobs:
 
           fs.mkdirSync(outGames, { recursive: true });
 
+          // ✅ ONLY YOUR VALID SOURCES
           const zonesurls = [
             'https://cdn.jsdelivr.net/gh/sealiee11/gnmathstuff@main/zones.json',
             'https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json'
@@ -70,27 +67,10 @@ jobs:
               .replaceAll('{HTML_URL}', htmlURL);
           }
 
-          async function getZonesUrl() {
-            let chosen = zonesurls[Math.floor(Math.random() * zonesurls.length)];
-
-            try {
-              const commits = await fetch('https://api.github.com/repos/gn-math/assets/commits', {
-                headers: { 'user-agent': 'mirror-bot' }
-              });
-              if (commits.ok) {
-                const json = await commits.json();
-                const sha = json?.[0]?.sha;
-                if (sha) {
-                  chosen = `https://cdn.jsdelivr.net/gh/gn-math/assets@${sha}/zones.json`;
-                }
-              }
-            } catch (_) {}
-
-            return chosen;
-          }
-
           (async () => {
-            const usedZonesUrl = await getZonesUrl();
+            // pick one randomly from your valid list
+            const usedZonesUrl = zonesurls[Math.floor(Math.random() * zonesurls.length)];
+
             const zonesRaw = await fetchText(usedZonesUrl + '?t=' + Date.now());
             const zones = JSON.parse(zonesRaw);
 
@@ -114,8 +94,10 @@ jobs:
                   const cover = zoneUrl(zone.cover);
                   const buf = await fetchBuffer(cover + '?t=' + Date.now());
                   const ext = extFromUrl(cover, '.img');
+
                   const name = `cover${ext}`;
                   fs.writeFileSync(path.join(gameDir, name), buf);
+
                   zone.localCover = name;
                 }
 
@@ -123,11 +105,13 @@ jobs:
                 if (zone.url) {
                   const resolved = zoneUrl(zone.url);
                   const html = await fetchText(resolved + '?t=' + Date.now());
+
                   fs.writeFileSync(path.join(gameDir, 'index.html'), html);
+
                   zone.localHtml = 'index.html';
                 }
 
-                // JSON per game
+                // GAME JSON
                 fs.writeFileSync(
                   path.join(gameDir, 'game.json'),
                   JSON.stringify(zone, null, 2)
@@ -149,9 +133,21 @@ jobs:
               }
             }
 
-            fs.writeFileSync(path.join(outRoot, 'zones.json'), JSON.stringify(zones, null, 2));
-            fs.writeFileSync(path.join(outRoot, 'index.json'), JSON.stringify(index, null, 2));
-            fs.writeFileSync(path.join(outRoot, 'manifest.json'), JSON.stringify(manifest, null, 2));
+            // GLOBAL FILES
+            fs.writeFileSync(
+              path.join(outRoot, 'zones.json'),
+              JSON.stringify(zones, null, 2)
+            );
+
+            fs.writeFileSync(
+              path.join(outRoot, 'index.json'),
+              JSON.stringify(index, null, 2)
+            );
+
+            fs.writeFileSync(
+              path.join(outRoot, 'manifest.json'),
+              JSON.stringify(manifest, null, 2)
+            );
 
             console.log(`Mirrored ${zones.length} games`);
           })().catch(err => {
