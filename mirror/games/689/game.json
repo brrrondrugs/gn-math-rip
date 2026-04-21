@@ -8,10 +8,6 @@
   "special": [
     "flash"
   ],
-  "tags": [
-    "Platformer",
-    "Action"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

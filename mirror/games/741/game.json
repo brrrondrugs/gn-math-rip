@@ -1,0 +1,14 @@
+{
+  "id": 741,
+  "name": "Resident Evil",
+  "cover": "{COVER_URL}/741.png",
+  "url": "{HTML_URL}/741.html",
+  "author": "Capcom",
+  "authorLink": "https://www.capcom.com/",
+  "special": [
+    "emulator",
+    "psx"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,125 +1,17 @@
 {
-  "generatedAt": "2026-04-21T08:08:57.402Z",
-  "source": "https://cdn.jsdelivr.net/gh/sealiee11/gnmathstuff@main/zones.json",
-  "total": 685,
+  "generatedAt": "2026-04-21T14:08:53.517Z",
+  "source": "https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json",
+  "total": 771,
   "downloaded": {
-    "games": 656,
+    "games": 769,
     "errors": [
       {
-        "id": "1",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/1-a.html?t=1776758937915"
-      },
-      {
-        "id": "27",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/27.html?t=1776758946100"
-      },
-      {
-        "id": "34",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/34.html?t=1776758947777"
-      },
-      {
-        "id": "44",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/44.html?t=1776758949947"
-      },
-      {
-        "id": "64",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/64.html?t=1776758955643"
-      },
-      {
-        "id": "65",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/65.html?t=1776758956426"
-      },
-      {
-        "id": "67",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/67.html?t=1776758957718"
-      },
-      {
-        "id": "75",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/75.html?t=1776758959801"
-      },
-      {
-        "id": "76",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/76.html?t=1776758960289"
-      },
-      {
-        "id": "82",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/82-aa.html?t=1776758962361"
-      },
-      {
-        "id": "85",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/85.html?t=1776758963197"
-      },
-      {
-        "id": "90",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/90.html?t=1776758966516"
-      },
-      {
-        "id": "112",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/112.html?t=1776758974668"
-      },
-      {
         "id": "114",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776758975699"
-      },
-      {
-        "id": "117",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/117.html?t=1776758977198"
-      },
-      {
-        "id": "179",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/179.html?t=1776758996025"
-      },
-      {
-        "id": "212",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/212.html?t=1776759011690"
-      },
-      {
-        "id": "213",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/213.html?t=1776759014192"
-      },
-      {
-        "id": "214",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/214.html?t=1776759014527"
-      },
-      {
-        "id": "253",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/253.html?t=1776759032177"
-      },
-      {
-        "id": "265",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/265.html?t=1776759036079"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776780548932"
       },
       {
         "id": "266",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776759037596"
-      },
-      {
-        "id": "502",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/502.html?t=1776759111907"
-      },
-      {
-        "id": "520",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/520.html?t=1776759119323"
-      },
-      {
-        "id": "589",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/589.html?t=1776759142123"
-      },
-      {
-        "id": "590",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/590.html?t=1776759142757"
-      },
-      {
-        "id": "591",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/591-a.html?t=1776759143076"
-      },
-      {
-        "id": "593",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/593.html?t=1776759145259"
-      },
-      {
-        "id": "596",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/596-u.html?t=1776759146685"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776780569250"
       }
     ]
   }

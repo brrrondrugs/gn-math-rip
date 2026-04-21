@@ -1,0 +1,14 @@
+{
+  "id": 733,
+  "name": "Tetris",
+  "cover": "{COVER_URL}/733.png",
+  "url": "{HTML_URL}/733.html",
+  "author": "Nintendo",
+  "authorLink": "https://www.nintendo.com/",
+  "special": [
+    "emulator",
+    "gba"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

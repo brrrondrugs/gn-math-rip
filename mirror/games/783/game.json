@@ -1,0 +1,13 @@
+{
+  "id": 783,
+  "name": "Apes vs Helium",
+  "cover": "{COVER_URL}/783.png",
+  "url": "{HTML_URL}/783.html",
+  "author": "mdtowerz",
+  "authorLink": "https://mdtowerz.itch.io/apesvshelium",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

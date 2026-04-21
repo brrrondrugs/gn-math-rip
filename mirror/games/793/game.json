@@ -1,0 +1,13 @@
+{
+  "id": 793,
+  "name": "Lethal Ape",
+  "cover": "{COVER_URL}/793.png",
+  "url": "{HTML_URL}/793.html",
+  "author": "StellaDev",
+  "authorLink": "https://stella-dev.itch.io/lethal-ape",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 721,
+  "name": "Shift at Midnight",
+  "cover": "{COVER_URL}/721.png",
+  "url": "{HTML_URL}/721.html",
+  "author": "Bun Muen, Slqnt",
+  "authorLink": "https://bunmuen.itch.io/shiftatmidnight",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

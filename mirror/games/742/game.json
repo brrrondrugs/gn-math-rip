@@ -1,0 +1,14 @@
+{
+  "id": 742,
+  "name": "Resident Evil 2",
+  "cover": "{COVER_URL}/742.png",
+  "url": "{HTML_URL}/742.html",
+  "author": "Capcom",
+  "authorLink": "https://www.capcom.com/",
+  "special": [
+    "emulator",
+    "psx"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

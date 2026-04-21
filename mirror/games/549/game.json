@@ -5,10 +5,6 @@
   "url": "{HTML_URL}/549.html",
   "author": "heyjoeway and SEGA",
   "authorLink": "https://github.com/heyjoeway/s2disasm",
-  "tags": [
-    "Platformer",
-    "Action"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

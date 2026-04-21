@@ -5,10 +5,6 @@
   "url": "{HTML_URL}/183.html",
   "author": "zardoy",
   "authorLink": "https://github.com/zardoy/minecraft-web-client",
-  "tags": [
-    "Survival",
-    "Simulation"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

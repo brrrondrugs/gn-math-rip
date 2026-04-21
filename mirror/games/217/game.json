@@ -5,13 +5,8 @@
   "url": "{HTML_URL}/217-c.html",
   "author": "Dennaton Games",
   "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
-  "featured": true,
   "special": [
     "port"
-  ],
-  "tags": [
-    "Action",
-    "Shooting"
   ],
   "localCover": "cover.png",
   "localHtml": "index.html"

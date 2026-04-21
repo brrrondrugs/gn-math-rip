@@ -1,0 +1,13 @@
+{
+  "id": 715,
+  "name": "Friday Night Funkin vs Zardy",
+  "cover": "{COVER_URL}/715.png",
+  "url": "{HTML_URL}/715.html",
+  "author": "SwankyBox",
+  "authorLink": "https://gamebanana.com/mods/44366",
+  "special": [
+    "fnf"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

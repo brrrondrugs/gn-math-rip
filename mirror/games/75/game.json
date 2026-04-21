@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "name": "Bloons TD 5",
+  "cover": "{COVER_URL}/75.png",
+  "url": "{HTML_URL}/75-fix.html",
+  "author": "Ninja Kiwi",
+  "authorLink": "https://ninjakiwi.com",
+  "special": [
+    "flash"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

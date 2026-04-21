@@ -1,0 +1,10 @@
+{
+  "id": 65,
+  "name": "Baldi's Basics",
+  "cover": "{COVER_URL}/65.png",
+  "url": "{HTML_URL}/65-fixed.html",
+  "author": "Basically Games",
+  "authorLink": "https://basically-games.itch.io/baldis-basics",
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

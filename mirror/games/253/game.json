@@ -1,0 +1,14 @@
+{
+  "id": 253,
+  "name": "Chat Bot AI (A.I GPT)",
+  "cover": "{COVER_URL}/253.png",
+  "url": "{HTML_URL}/253-update.html",
+  "author": "gn-math",
+  "authorLink": "https://gn-math.dev",
+  "featured": true,
+  "special": [
+    "tools"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

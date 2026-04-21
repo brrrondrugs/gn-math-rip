@@ -1,0 +1,13 @@
+{
+  "id": 723,
+  "name": "Brotato",
+  "cover": "{COVER_URL}/723.png",
+  "url": "{HTML_URL}/723.html",
+  "author": "Blobfish, Individual/Stinkalistic",
+  "authorLink": "https://store.steampowered.com/app/1942280/Brotato/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

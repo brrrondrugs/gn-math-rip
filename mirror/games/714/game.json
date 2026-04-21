@@ -1,0 +1,13 @@
+{
+  "id": 714,
+  "name": "Friday Night Funkin vs Tabi",
+  "cover": "{COVER_URL}/714.png",
+  "url": "{HTML_URL}/714.html",
+  "author": "SangMareZG",
+  "authorLink": "https://gamebanana.com/mods/587524",
+  "special": [
+    "fnf"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

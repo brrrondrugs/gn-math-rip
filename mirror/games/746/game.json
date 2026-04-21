@@ -1,0 +1,13 @@
+{
+  "id": 746,
+  "name": "Fundamental Paper Novel",
+  "cover": "{COVER_URL}/746.png",
+  "url": "{HTML_URL}/746.html",
+  "author": "yakubell",
+  "authorLink": ":https://yakubelle.itch.io/fundamental-paper-novel",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

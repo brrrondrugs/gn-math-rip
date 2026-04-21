@@ -1,0 +1,14 @@
+{
+  "id": 771,
+  "name": "Hollow Knight: Silksong",
+  "cover": "{COVER_URL}/771.png",
+  "url": "{HTML_URL}/771-z.html",
+  "author": "Team Cherry, Edurocks",
+  "authorLink": "https://www.teamcherry.com.au/",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

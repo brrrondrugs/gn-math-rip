@@ -1,0 +1,14 @@
+{
+  "id": 776,
+  "name": "Your Only Move Is HUSTLE",
+  "cover": "{COVER_URL}/776.png",
+  "url": "{HTML_URL}/776.html",
+  "author": "ivysly",
+  "authorLink": "https://ivysly.itch.io/your-only-move-is-hustle",
+  "featured": true,
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

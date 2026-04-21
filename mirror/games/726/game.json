@@ -1,0 +1,14 @@
+{
+  "id": 726,
+  "name": "Breath of the Wild NDS",
+  "cover": "{COVER_URL}/726.png",
+  "url": "{HTML_URL}/726.html",
+  "author": "unknown",
+  "authorLink": "",
+  "special": [
+    "emulator",
+    "nds"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

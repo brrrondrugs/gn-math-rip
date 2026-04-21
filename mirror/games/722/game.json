@@ -1,0 +1,13 @@
+{
+  "id": 722,
+  "name": "Fused 240",
+  "cover": "{COVER_URL}/722.png",
+  "url": "{HTML_URL}/722.html",
+  "author": "Mike Klubnika, shxyder",
+  "authorLink": "https://mikeklubnika.itch.io/fused-240",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

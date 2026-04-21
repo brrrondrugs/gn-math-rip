@@ -8,10 +8,6 @@
   "special": [
     "flash"
   ],
-  "tags": [
-    "Puzzle",
-    "Platformer"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

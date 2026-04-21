@@ -1,0 +1,13 @@
+{
+  "id": 796,
+  "name": "Slendytubbies 1",
+  "cover": "{COVER_URL}/796.png",
+  "url": "{HTML_URL}/796.html",
+  "author": "Sean Toman",
+  "authorLink": "https://www.zeoworks.com/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

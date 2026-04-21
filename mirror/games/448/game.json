@@ -4,10 +4,7 @@
   "cover": "{COVER_URL}/448.png",
   "url": "{HTML_URL}/448.html",
   "author": "Voodoo",
-  "authorLink": "https://play.google.com/store/apps/details?id=com.cassette.aquapark&hl=en_US",
-  "tags": [
-    "Racing"
-  ],
+  "authorLink": "https://play.google.com/store/apps/details?id=com.cassette.aquapark",
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -1,0 +1,13 @@
+{
+  "id": 772,
+  "name": "Sam & Max Hit the Road",
+  "cover": "{COVER_URL}/772.png",
+  "url": "{HTML_URL}/772.html",
+  "author": "Lucasfilm",
+  "authorLink": "https://store.steampowered.com/app/355170/Sam__Max_Hit_the_Road/",
+  "special": [
+    "dos"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

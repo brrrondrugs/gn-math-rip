@@ -1,0 +1,10 @@
+{
+  "id": 85,
+  "name": "Cut the Rope",
+  "cover": "{COVER_URL}/85.png",
+  "url": "{HTML_URL}/85-f.html",
+  "author": "ZeptoLab",
+  "authorLink": "https://www.zeptolab.com",
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

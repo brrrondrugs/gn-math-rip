@@ -1,0 +1,13 @@
+{
+  "id": 750,
+  "name": "Five Nights at Last Breath",
+  "cover": "{COVER_URL}/750.png",
+  "url": "{HTML_URL}/750-u.html",
+  "author": "Free_Breath",
+  "authorLink": "https://free-breath.itch.io/five-night-at-last-breath-epstein",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

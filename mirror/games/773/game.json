@@ -1,0 +1,13 @@
+{
+  "id": 773,
+  "name": "Command & Conquer",
+  "cover": "{COVER_URL}/773.png",
+  "url": "{HTML_URL}/773.html",
+  "author": "Westwood Studios",
+  "authorLink": "https://www.ea.com/games/command-and-conquer",
+  "special": [
+    "dos"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

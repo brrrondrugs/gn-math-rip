@@ -1,0 +1,13 @@
+{
+  "id": 757,
+  "name": "Ultrapool",
+  "cover": "{COVER_URL}/757.png",
+  "url": "{HTML_URL}/757.html",
+  "author": "Icedrop Games, mysmic",
+  "authorLink": "https://store.steampowered.com/app/4195110/Ultrapool/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

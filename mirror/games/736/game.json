@@ -1,0 +1,13 @@
+{
+  "id": 736,
+  "name": "Super Mario Bros. Remastered",
+  "cover": "{COVER_URL}/736.png",
+  "url": "{HTML_URL}/736.html",
+  "author": "Zephyrside",
+  "authorLink": "https://github.com/tfdsoft/famidash",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

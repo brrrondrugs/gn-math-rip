@@ -1,0 +1,14 @@
+{
+  "id": 716,
+  "name": "Clover Pit",
+  "cover": "{COVER_URL}/716.png",
+  "url": "{HTML_URL}/716-fix2.html",
+  "author": "Panik Arcade",
+  "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

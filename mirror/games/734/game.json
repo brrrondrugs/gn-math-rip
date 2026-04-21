@@ -1,0 +1,13 @@
+{
+  "id": 734,
+  "name": "Christmas Massacre",
+  "cover": "{COVER_URL}/734.png",
+  "url": "{HTML_URL}/734.html",
+  "author": "Puppet Combo",
+  "authorLink": "https://store.steampowered.com/app/1840490/Christmas_Massacre/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

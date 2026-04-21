@@ -1,0 +1,13 @@
+{
+  "id": 754,
+  "name": "Minecraft Pocket Edition",
+  "cover": "{COVER_URL}/754.png",
+  "url": "{HTML_URL}/754.html",
+  "author": "Mojang",
+  "authorLink": "https://mojang.com",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

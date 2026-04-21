@@ -1,0 +1,14 @@
+{
+  "id": 718,
+  "name": "Untitled Goose Game",
+  "cover": "{COVER_URL}/718.png",
+  "url": "{HTML_URL}/718.html",
+  "author": "House House",
+  "authorLink": "https://store.steampowered.com/app/837470/Untitled_Goose_Game/",
+  "special": [
+    "port"
+  ],
+  "featured": true,
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

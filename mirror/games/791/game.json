@@ -1,0 +1,13 @@
+{
+  "id": 791,
+  "name": "Who's Your Daddy",
+  "cover": "{COVER_URL}/791.png",
+  "url": "{HTML_URL}/791.html",
+  "author": "Evil Tortilla Games, reeyuki",
+  "authorLink": "https://store.steampowered.com/app/427730/Whos_Your_Daddy/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

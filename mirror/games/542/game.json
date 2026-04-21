@@ -9,11 +9,6 @@
   "special": [
     "port"
   ],
-  "tags": [
-    "Shooting",
-    "Action",
-    "Platformer"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

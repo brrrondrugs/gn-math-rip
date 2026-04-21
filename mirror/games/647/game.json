@@ -8,9 +8,6 @@
   "special": [
     "flash"
   ],
-  "tags": [
-    "Fighting"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

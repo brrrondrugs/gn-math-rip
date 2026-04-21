@@ -1,0 +1,13 @@
+{
+  "id": 790,
+  "name": "Helltaker",
+  "cover": "{COVER_URL}/790.png",
+  "url": "{HTML_URL}/790.html",
+  "author": "Vanripper, wasm.rip",
+  "authorLink": "https://vanripper.itch.io/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

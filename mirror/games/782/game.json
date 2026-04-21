@@ -1,0 +1,14 @@
+{
+  "id": 782,
+  "name": "Um Jammer Lammy",
+  "cover": "{COVER_URL}/782.png",
+  "url": "{HTML_URL}/782f.html",
+  "author": "NanaOn-Sha",
+  "authorLink": "https://www.retrogames.cc/psx-games/um-jammer-lammy-usa.html",
+  "special": [
+    "emulator",
+    "psx"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

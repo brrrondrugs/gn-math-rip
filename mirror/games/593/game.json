@@ -1,0 +1,13 @@
+{
+  "id": 593,
+  "name": "Pac Man World 2",
+  "cover": "{COVER_URL}/593.png",
+  "url": "{HTML_URL}/593-f.html",
+  "author": "Full Fat Games",
+  "authorLink": "https://www.full-fat.com/",
+  "special": [
+    "emulator"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}

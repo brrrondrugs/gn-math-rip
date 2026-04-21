@@ -1,0 +1,13 @@
+{
+  "id": 759,
+  "name": "Dice a Million",
+  "cover": "{COVER_URL}/759.png",
+  "url": "{HTML_URL}/759.html",
+  "author": "countlessnights, 2 Left Thumbs, NotRexed",
+  "authorLink": "https://store.steampowered.com/app/3430340/Dice_A_Million/",
+  "special": [
+    "port"
+  ],
+  "localCover": "cover.png",
+  "localHtml": "index.html"
+}
