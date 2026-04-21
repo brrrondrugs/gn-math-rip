@@ -1,8 +1,12 @@
-```yaml
 name: Sync GN Math Zone Mirror
 
 on:
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Force run (ignore no-change check)"
+        required: false
+        default: "true"
   schedule:
     - cron: "17 */6 * * *"
 
@@ -22,7 +26,7 @@ jobs:
         with:
           node-version: 22
 
-      - name: Mirror games into structured folders
+      - name: Run mirror script
         run: |
           node <<'EOF'
           const fs = require('node:fs');
@@ -102,34 +106,28 @@ jobs:
             for (const zone of zones) {
               const id = String(zone.id ?? 'unknown');
               const gameDir = path.join(outGames, id);
-
               fs.mkdirSync(gameDir, { recursive: true });
 
               try {
                 // COVER
                 if (zone.cover) {
                   const cover = zoneUrl(zone.cover);
-                  const coverBuf = await fetchBuffer(cover + '?t=' + Date.now());
+                  const buf = await fetchBuffer(cover + '?t=' + Date.now());
                   const ext = extFromUrl(cover, '.img');
-
-                  const coverName = `cover${ext}`;
-                  fs.writeFileSync(path.join(gameDir, coverName), coverBuf);
-
-                  zone.localCover = coverName;
+                  const name = `cover${ext}`;
+                  fs.writeFileSync(path.join(gameDir, name), buf);
+                  zone.localCover = name;
                 }
 
                 // HTML
                 if (zone.url) {
                   const resolved = zoneUrl(zone.url);
                   const html = await fetchText(resolved + '?t=' + Date.now());
-
-                  const htmlName = 'index.html';
-                  fs.writeFileSync(path.join(gameDir, htmlName), html);
-
-                  zone.localHtml = htmlName;
+                  fs.writeFileSync(path.join(gameDir, 'index.html'), html);
+                  zone.localHtml = 'index.html';
                 }
 
-                // GAME JSON
+                // JSON per game
                 fs.writeFileSync(
                   path.join(gameDir, 'game.json'),
                   JSON.stringify(zone, null, 2)
@@ -141,7 +139,7 @@ jobs:
                   folder: `games/${id}`
                 });
 
-                manifest.downloaded.games += 1;
+                manifest.downloaded.games++;
 
               } catch (err) {
                 manifest.downloaded.errors.push({
@@ -151,21 +149,9 @@ jobs:
               }
             }
 
-            // SAVE GLOBAL FILES
-            fs.writeFileSync(
-              path.join(outRoot, 'zones.json'),
-              JSON.stringify(zones, null, 2)
-            );
-
-            fs.writeFileSync(
-              path.join(outRoot, 'index.json'),
-              JSON.stringify(index, null, 2)
-            );
-
-            fs.writeFileSync(
-              path.join(outRoot, 'manifest.json'),
-              JSON.stringify(manifest, null, 2)
-            );
+            fs.writeFileSync(path.join(outRoot, 'zones.json'), JSON.stringify(zones, null, 2));
+            fs.writeFileSync(path.join(outRoot, 'index.json'), JSON.stringify(index, null, 2));
+            fs.writeFileSync(path.join(outRoot, 'manifest.json'), JSON.stringify(manifest, null, 2));
 
             console.log(`Mirrored ${zones.length} games`);
           })().catch(err => {
@@ -176,21 +162,15 @@ jobs:
 
       - name: Commit and push
         run: |
-          if git diff --quiet && git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add mirror
 
           if git diff --cached --quiet; then
-            echo "Nothing staged"
+            echo "No changes to commit"
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git commit -m "chore: sync game mirror"
           git push
-```
