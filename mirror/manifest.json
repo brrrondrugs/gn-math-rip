@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T14:08:53.517Z",
+  "generatedAt": "2026-04-21T19:37:47.877Z",
   "source": "https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json",
   "total": 771,
   "downloaded": {
@@ -7,11 +7,11 @@
     "errors": [
       {
         "id": "114",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776780548932"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776800270409"
       },
       {
         "id": "266",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776780569250"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776800274310"
       }
     ]
   }
