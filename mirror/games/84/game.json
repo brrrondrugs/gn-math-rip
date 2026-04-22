@@ -8,10 +8,6 @@
   "special": [
     "flash"
   ],
-  "tags": [
-    "Action",
-    "Endless"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

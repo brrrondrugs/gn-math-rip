@@ -9,10 +9,6 @@
   "special": [
     "port"
   ],
-  "tags": [
-    "Horror",
-    "Action"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

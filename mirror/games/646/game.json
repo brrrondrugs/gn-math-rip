@@ -8,10 +8,6 @@
   "special": [
     "port"
   ],
-  "tags": [
-    "Action",
-    "Fighting"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

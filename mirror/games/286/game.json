@@ -8,11 +8,6 @@
   "special": [
     "port"
   ],
-  "tags": [
-    "Horror",
-    "Survival",
-    "Shooting"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

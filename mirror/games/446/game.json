@@ -5,14 +5,8 @@
   "url": "{HTML_URL}/446.html",
   "author": "Con Man Games, SmashGames and Sean Young",
   "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
-  "featured": true,
   "special": [
     "port"
-  ],
-  "tags": [
-    "Horror",
-    "Puzzle",
-    "Adventure"
   ],
   "localCover": "cover.png",
   "localHtml": "index.html"

@@ -8,10 +8,6 @@
   "special": [
     "emulator"
   ],
-  "tags": [
-    "Action",
-    "Adventure"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

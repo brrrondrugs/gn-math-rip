@@ -9,11 +9,6 @@
     "emulator",
     "n64"
   ],
-  "tags": [
-    "RPG",
-    "Adventure",
-    "Action"
-  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }
