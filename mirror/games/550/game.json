@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/550.html",
   "author": "Eukaryot3K and SEGA",
   "authorLink": "https://sonic3air.org/",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

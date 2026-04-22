@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/173.html",
   "author": "Illia Kaminetskyi",
   "authorLink": "https://ilyakaminetsky.itch.io/drift-hunters",
+  "tags": [
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

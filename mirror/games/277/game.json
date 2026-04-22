@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/277.html",
   "author": "agar3s",
   "authorLink": "https://github.com/agar3s",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

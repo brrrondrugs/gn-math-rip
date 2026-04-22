@@ -5,6 +5,11 @@
   "url": "{HTML_URL}/29.html",
   "author": "Supersonic Studios LTD",
   "authorLink": "https://play.google.com/store/apps/details?id=com.Lightneer.BazookaBoy",
+  "tags": [
+    "Action",
+    "Shooting",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

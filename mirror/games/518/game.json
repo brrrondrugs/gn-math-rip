@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/518.html",
   "author": "NitNitori, LadyEbony",
   "authorLink": "https://nitori.itch.io/touhou-luminous-strike",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/531.html",
   "author": "Nickelodeon",
   "authorLink": "https://nick.com",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

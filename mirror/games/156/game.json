@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/156.html",
   "author": "CASUAL AZUR GAMES",
   "authorLink": "https://play.google.com/store/apps/details?id=com.harvest.io",
+  "tags": [
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

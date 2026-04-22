@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/437.html",
   "author": "Azur Games, Playgendary",
   "authorLink": "https://azurgames.com",
+  "tags": [
+    "Action",
+    "Clicker"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

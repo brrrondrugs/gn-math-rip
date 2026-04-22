@@ -8,6 +8,10 @@
   "special": [
     "flash"
   ],
+  "tags": [
+    "Simulation",
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

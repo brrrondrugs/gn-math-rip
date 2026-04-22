@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/36.html",
   "author": "Fancade",
   "authorLink": "https://fancade.com/",
+  "tags": [
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/270.html",
   "author": "Nitrome",
   "authorLink": "https://poki.com/en/g/bad-ice-cream-2",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

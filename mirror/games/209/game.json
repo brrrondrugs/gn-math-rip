@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/209.html",
   "author": "Stelennnn",
   "authorLink": "https://play.google.com/store/apps/details?id=xyz.gameshtml5.drawathehill&hl=en_US",
+  "tags": [
+    "Puzzle",
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

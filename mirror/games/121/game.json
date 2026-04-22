@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/121.html",
   "author": "Lagged",
   "authorLink": "https://lagged.com",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

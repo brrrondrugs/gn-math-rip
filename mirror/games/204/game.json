@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/204-a.html",
   "author": "lax1dude",
   "authorLink": "https://lax1dude.net",
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

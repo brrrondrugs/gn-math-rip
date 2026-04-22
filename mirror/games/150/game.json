@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/150.html",
   "author": "Famobi",
   "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.cannonballs3d",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

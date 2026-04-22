@@ -8,6 +8,10 @@
   "special": [
     "flash"
   ],
+  "tags": [
+    "Puzzle",
+    "Adventure"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

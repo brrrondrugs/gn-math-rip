@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/368.html",
   "author": "idfk",
   "authorLink": "https://gn-math.github.io",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

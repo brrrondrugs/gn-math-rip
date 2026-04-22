@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/11.html",
   "author": "Madbox",
   "authorLink": "https://madbox.io",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

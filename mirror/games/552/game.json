@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/552.html",
   "author": "BGaming",
   "authorLink": "https://bgaming.com/games/aviamasters",
+  "tags": [
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

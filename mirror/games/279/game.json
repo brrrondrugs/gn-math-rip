@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/279.html",
   "author": "Madalin Games",
   "authorLink": "https://www.madalingames.com",
+  "tags": [
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

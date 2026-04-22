@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/70.html",
   "author": "Candywriter",
   "authorLink": "https://candywriter.com",
+  "tags": [
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

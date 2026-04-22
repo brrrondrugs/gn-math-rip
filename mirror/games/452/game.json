@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/452.html",
   "author": "Maksim Chmutov",
   "authorLink": "https://booleet.itch.io/station-141",
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

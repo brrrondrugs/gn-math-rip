@@ -1,10 +1,13 @@
 {
   "id": 509,
-  "name": "Friday Night Funkin’ Soft",
+  "name": "Friday Night Funkin' Soft",
   "cover": "{COVER_URL}/509.png",
   "url": "{HTML_URL}/509.html",
   "author": "ShiniTrexx etc",
   "authorLink": "https://gamebanana.com/mods/523551",
+  "tags": [
+    "Rhythm"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/7.html",
   "author": "Halfbrick Studios",
   "authorLink": "https://www.halfbrick.com",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

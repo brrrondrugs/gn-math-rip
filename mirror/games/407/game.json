@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/407.html",
   "author": "Yandex",
   "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Action",
+    "Survival"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

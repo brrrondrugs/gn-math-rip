@@ -8,6 +8,9 @@
   "special": [
     "port"
   ],
+  "tags": [
+    "Horror"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

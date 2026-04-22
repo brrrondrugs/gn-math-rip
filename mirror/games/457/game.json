@@ -8,6 +8,10 @@
   "special": [
     "port"
   ],
+  "tags": [
+    "Survival",
+    "Adventure"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

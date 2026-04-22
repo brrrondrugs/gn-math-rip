@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/2e.html",
   "author": "Dedra Games",
   "authorLink": "https://dedragames.com",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

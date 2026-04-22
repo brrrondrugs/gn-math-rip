@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/154.html",
   "author": "SayGames",
   "authorLink": "https://play.google.com/store/apps/details?id=com.kadka.forknsausage",
+  "tags": [
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

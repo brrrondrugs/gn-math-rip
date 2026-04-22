@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/68.html",
   "author": "EvilObjective",
   "authorLink": "https://evilobjective.itch.io",
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/553.html",
   "author": "Dream Playz",
   "authorLink": "https://play.google.com/store/apps/details?id=com.dreamplayz.rollingball&hl=en_US",
+  "tags": [
+    "Rhythm",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

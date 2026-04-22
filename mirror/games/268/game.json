@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/268.html",
   "author": "SnoutUp",
   "authorLink": "https://store.steampowered.com/app/646240/Bacon_May_Die/",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

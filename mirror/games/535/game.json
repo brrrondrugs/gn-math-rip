@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/535.html",
   "author": "Cartoon Network",
   "authorLink": "https://cartoonnetwork.com",
+  "tags": [
+    "Fighting"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/256.html",
   "author": "Teasle",
   "authorLink": "https://teasle.itch.io/crazykitty3d",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

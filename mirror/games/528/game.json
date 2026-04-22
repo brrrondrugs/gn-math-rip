@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/528.html",
   "author": "Nickelodeon",
   "authorLink": "https://nick.com",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

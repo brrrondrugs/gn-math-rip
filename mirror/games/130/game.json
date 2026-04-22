@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/130.html",
   "author": "ppy",
   "authorLink": "https://osu.ppy.sh/",
+  "tags": [
+    "Rhythm"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

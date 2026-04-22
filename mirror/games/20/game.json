@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/20a.html",
   "author": "Supersonic Studios LTD",
   "authorLink": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun",
+  "tags": [
+    "Endless",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

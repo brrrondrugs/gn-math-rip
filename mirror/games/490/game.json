@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/490.html",
   "author": "Neweichgames",
   "authorLink": "https://www.neweichgames.com",
+  "tags": [
+    "Shooting"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

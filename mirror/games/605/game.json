@@ -9,6 +9,10 @@
     "port"
   ],
   "featured": true,
+  "tags": [
+    "Adventure",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -10,11 +10,6 @@
     "folder": "games/0"
   },
   {
-    "id": "1",
-    "name": "OvO",
-    "folder": "games/1"
-  },
-  {
     "id": "2",
     "name": "OvO 2",
     "folder": "games/2"
@@ -135,11 +130,6 @@
     "folder": "games/26"
   },
   {
-    "id": "27",
-    "name": "Geometry Dash Lite (REMAKE)",
-    "folder": "games/27"
-  },
-  {
     "id": "28",
     "name": "Basketball Frvr",
     "folder": "games/28"
@@ -168,11 +158,6 @@
     "id": "33",
     "name": "Retro Bowl",
     "folder": "games/33"
-  },
-  {
-    "id": "34",
-    "name": "Retro Bowl College",
-    "folder": "games/34"
   },
   {
     "id": "36",
@@ -213,11 +198,6 @@
     "id": "43",
     "name": "Driven Wild",
     "folder": "games/43"
-  },
-  {
-    "id": "44",
-    "name": "Ragdoll Hit",
-    "folder": "games/44"
   },
   {
     "id": "45",
@@ -310,24 +290,9 @@
     "folder": "games/63"
   },
   {
-    "id": "64",
-    "name": "Backrooms",
-    "folder": "games/64"
-  },
-  {
-    "id": "65",
-    "name": "Baldi's Basics",
-    "folder": "games/65"
-  },
-  {
     "id": "66",
     "name": "Basket Random",
     "folder": "games/66"
-  },
-  {
-    "id": "67",
-    "name": "Big Tower Tiny Square",
-    "folder": "games/67"
   },
   {
     "id": "68",
@@ -365,23 +330,13 @@
     "folder": "games/74"
   },
   {
-    "id": "75",
-    "name": "Bloons TD 5",
-    "folder": "games/75"
-  },
-  {
-    "id": "76",
-    "name": "Bob The Robber 2",
-    "folder": "games/76"
-  },
-  {
     "id": "77",
     "name": "Boxing Random",
     "folder": "games/77"
   },
   {
     "id": "78",
-    "name": "Burrito Bison: Launcha Libre",
+    "name": "Burrito Bison",
     "folder": "games/78"
   },
   {
@@ -400,11 +355,6 @@
     "folder": "games/81"
   },
   {
-    "id": "82",
-    "name": "Cookie Clicker",
-    "folder": "games/82"
-  },
-  {
     "id": "83",
     "name": "Coreball",
     "folder": "games/83"
@@ -413,11 +363,6 @@
     "id": "84",
     "name": "Cubefield",
     "folder": "games/84"
-  },
-  {
-    "id": "85",
-    "name": "Cut the Rope",
-    "folder": "games/85"
   },
   {
     "id": "86",
@@ -438,11 +383,6 @@
     "id": "89",
     "name": "Fireboy and Watergirl 3",
     "folder": "games/89"
-  },
-  {
-    "id": "90",
-    "name": "Granny",
-    "folder": "games/90"
   },
   {
     "id": "91",
@@ -550,11 +490,6 @@
     "folder": "games/111"
   },
   {
-    "id": "112",
-    "name": "Wordle",
-    "folder": "games/112"
-  },
-  {
     "id": "113",
     "name": "Ruffle",
     "folder": "games/113"
@@ -568,11 +503,6 @@
     "id": "116",
     "name": "Offroad Mountain Bike",
     "folder": "games/116"
-  },
-  {
-    "id": "117",
-    "name": "Space Waves",
-    "folder": "games/117"
   },
   {
     "id": "118",
@@ -805,11 +735,6 @@
     "folder": "games/178"
   },
   {
-    "id": "179",
-    "name": "Soundboard",
-    "folder": "games/179"
-  },
-  {
     "id": "180",
     "name": "n-gon",
     "folder": "games/180"
@@ -958,21 +883,6 @@
     "id": "211",
     "name": "Death Run 3D",
     "folder": "games/211"
-  },
-  {
-    "id": "212",
-    "name": "Cut the Rope",
-    "folder": "games/212"
-  },
-  {
-    "id": "213",
-    "name": "Cut the Rope: Time Travel",
-    "folder": "games/213"
-  },
-  {
-    "id": "214",
-    "name": "Cut the Rope: Holiday Gift",
-    "folder": "games/214"
   },
   {
     "id": "215",
@@ -1165,11 +1075,6 @@
     "folder": "games/252"
   },
   {
-    "id": "253",
-    "name": "Chat Bot AI (A.I GPT)",
-    "folder": "games/253"
-  },
-  {
     "id": "255",
     "name": "Crazy Chicken 3D",
     "folder": "games/255"
@@ -1218,11 +1123,6 @@
     "id": "264",
     "name": "Escape Road",
     "folder": "games/264"
-  },
-  {
-    "id": "265",
-    "name": "Escape Road 2",
-    "folder": "games/265"
   },
   {
     "id": "267",
@@ -1368,6 +1268,11 @@
     "id": "295",
     "name": "12 Mini Battles",
     "folder": "games/295"
+  },
+  {
+    "id": "296",
+    "name": "Play!.js",
+    "folder": "games/296"
   },
   {
     "id": "297",
@@ -2010,11 +1915,6 @@
     "folder": "games/428"
   },
   {
-    "id": "429",
-    "name": "Code Editor",
-    "folder": "games/429"
-  },
-  {
     "id": "430",
     "name": "10 Minutes Till Dawn",
     "folder": "games/430"
@@ -2375,11 +2275,6 @@
     "folder": "games/501"
   },
   {
-    "id": "502",
-    "name": "Stick With It",
-    "folder": "games/502"
-  },
-  {
     "id": "503",
     "name": "Five Nights at Candy's",
     "folder": "games/503"
@@ -2411,7 +2306,7 @@
   },
   {
     "id": "509",
-    "name": "Friday Night Funkin’ Soft",
+    "name": "Friday Night Funkin' Soft",
     "folder": "games/509"
   },
   {
@@ -2463,11 +2358,6 @@
     "id": "519",
     "name": "Generic Fighter Maybe",
     "folder": "games/519"
-  },
-  {
-    "id": "520",
-    "name": "Dan The Man",
-    "folder": "games/520"
   },
   {
     "id": "521",
@@ -2805,29 +2695,9 @@
     "folder": "games/588"
   },
   {
-    "id": "589",
-    "name": "Sonic CD",
-    "folder": "games/589"
-  },
-  {
-    "id": "590",
-    "name": "Sonic Mania",
-    "folder": "games/590"
-  },
-  {
-    "id": "591",
-    "name": "Slime Rancher",
-    "folder": "games/591"
-  },
-  {
     "id": "592",
     "name": "Pac Man World",
     "folder": "games/592"
-  },
-  {
-    "id": "593",
-    "name": "Pac Man World 2",
-    "folder": "games/593"
   },
   {
     "id": "594",
@@ -2838,11 +2708,6 @@
     "id": "595",
     "name": "Shapez.io",
     "folder": "games/595"
-  },
-  {
-    "id": "596",
-    "name": "[!] COMMENTS",
-    "folder": "games/596"
   },
   {
     "id": "597",
@@ -2941,7 +2806,7 @@
   },
   {
     "id": "616",
-    "name": "Friday Night Funkin’ Wednesday's Infidelity",
+    "name": "Friday Night Funkin' Wednesday's Infidelity",
     "folder": "games/616"
   },
   {
@@ -2951,7 +2816,7 @@
   },
   {
     "id": "618",
-    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+    "name": "FNF vs Bob v2.0 (Bob's Onslaught)",
     "folder": "games/618"
   },
   {
@@ -3408,440 +3273,5 @@
     "id": "710",
     "name": "Five Nights at Epstein's",
     "folder": "games/710"
-  },
-  {
-    "id": "711",
-    "name": "Antonblast",
-    "folder": "games/711"
-  },
-  {
-    "id": "712",
-    "name": "Jumbo Mario",
-    "folder": "games/712"
-  },
-  {
-    "id": "713",
-    "name": "Silent Hill",
-    "folder": "games/713"
-  },
-  {
-    "id": "714",
-    "name": "Friday Night Funkin vs Tabi",
-    "folder": "games/714"
-  },
-  {
-    "id": "715",
-    "name": "Friday Night Funkin vs Zardy",
-    "folder": "games/715"
-  },
-  {
-    "id": "716",
-    "name": "Clover Pit",
-    "folder": "games/716"
-  },
-  {
-    "id": "717",
-    "name": "Peaks of Yore",
-    "folder": "games/717"
-  },
-  {
-    "id": "718",
-    "name": "Untitled Goose Game",
-    "folder": "games/718"
-  },
-  {
-    "id": "719",
-    "name": "A Game About Feeding A Black Hole",
-    "folder": "games/719"
-  },
-  {
-    "id": "720",
-    "name": "Roulette Hero",
-    "folder": "games/720"
-  },
-  {
-    "id": "721",
-    "name": "Shift at Midnight",
-    "folder": "games/721"
-  },
-  {
-    "id": "722",
-    "name": "Fused 240",
-    "folder": "games/722"
-  },
-  {
-    "id": "723",
-    "name": "Brotato",
-    "folder": "games/723"
-  },
-  {
-    "id": "724",
-    "name": "Endoparasitic 2",
-    "folder": "games/724"
-  },
-  {
-    "id": "725",
-    "name": "ShredSauce",
-    "folder": "games/725"
-  },
-  {
-    "id": "726",
-    "name": "Breath of the Wild NDS",
-    "folder": "games/726"
-  },
-  {
-    "id": "727",
-    "name": "Dimension Incident",
-    "folder": "games/727"
-  },
-  {
-    "id": "728",
-    "name": "Fear Assessment",
-    "folder": "games/728"
-  },
-  {
-    "id": "729",
-    "name": "game inside a game inside a game inside a game inside a game inside a game",
-    "folder": "games/729"
-  },
-  {
-    "id": "730",
-    "name": "Cell Machine",
-    "folder": "games/730"
-  },
-  {
-    "id": "731",
-    "name": "Undertale: Last Breath",
-    "folder": "games/731"
-  },
-  {
-    "id": "732",
-    "name": "64 in 1 NES",
-    "folder": "games/732"
-  },
-  {
-    "id": "733",
-    "name": "Tetris",
-    "folder": "games/733"
-  },
-  {
-    "id": "734",
-    "name": "Christmas Massacre",
-    "folder": "games/734"
-  },
-  {
-    "id": "735",
-    "name": "Famidash",
-    "folder": "games/735"
-  },
-  {
-    "id": "736",
-    "name": "Super Mario Bros. Remastered",
-    "folder": "games/736"
-  },
-  {
-    "id": "737",
-    "name": "Saihate Station (さいはて駅)",
-    "folder": "games/737"
-  },
-  {
-    "id": "738",
-    "name": "Dumb Ways to Die",
-    "folder": "games/738"
-  },
-  {
-    "id": "739",
-    "name": "Soccer Random",
-    "folder": "games/739"
-  },
-  {
-    "id": "740",
-    "name": "Bart Blast",
-    "folder": "games/740"
-  },
-  {
-    "id": "741",
-    "name": "Resident Evil",
-    "folder": "games/741"
-  },
-  {
-    "id": "742",
-    "name": "Resident Evil 2",
-    "folder": "games/742"
-  },
-  {
-    "id": "743",
-    "name": "Power Hover",
-    "folder": "games/743"
-  },
-  {
-    "id": "744",
-    "name": "Escape Road City 2",
-    "folder": "games/744"
-  },
-  {
-    "id": "745",
-    "name": "Tetris",
-    "folder": "games/745"
-  },
-  {
-    "id": "746",
-    "name": "Fundamental Paper Novel",
-    "folder": "games/746"
-  },
-  {
-    "id": "747",
-    "name": "Worst Time Simulator",
-    "folder": "games/747"
-  },
-  {
-    "id": "748",
-    "name": "Undertale Last Breath PHASE THREE",
-    "folder": "games/748"
-  },
-  {
-    "id": "749",
-    "name": "Super Monkey Ball 1&2",
-    "folder": "games/749"
-  },
-  {
-    "id": "750",
-    "name": "Five Nights at Last Breath",
-    "folder": "games/750"
-  },
-  {
-    "id": "751",
-    "name": "Jeffrey Epstein Basics In Education And Kidnapping",
-    "folder": "games/751"
-  },
-  {
-    "id": "752",
-    "name": "Bad Piggies",
-    "folder": "games/752"
-  },
-  {
-    "id": "753",
-    "name": "Breaklock",
-    "folder": "games/753"
-  },
-  {
-    "id": "754",
-    "name": "Minecraft Pocket Edition",
-    "folder": "games/754"
-  },
-  {
-    "id": "755",
-    "name": "Brawl Simulator 3D",
-    "folder": "games/755"
-  },
-  {
-    "id": "756",
-    "name": "Witch's Heart",
-    "folder": "games/756"
-  },
-  {
-    "id": "757",
-    "name": "Ultrapool",
-    "folder": "games/757"
-  },
-  {
-    "id": "758",
-    "name": "CaseOh's Basics in Eating and Fast Food",
-    "folder": "games/758"
-  },
-  {
-    "id": "759",
-    "name": "Dice a Million",
-    "folder": "games/759"
-  },
-  {
-    "id": "760",
-    "name": "Overburden",
-    "folder": "games/760"
-  },
-  {
-    "id": "761",
-    "name": "FISH",
-    "folder": "games/761"
-  },
-  {
-    "id": "762",
-    "name": "Cheese Rolling",
-    "folder": "games/762"
-  },
-  {
-    "id": "763",
-    "name": "Flying Gorilla 3D",
-    "folder": "games/763"
-  },
-  {
-    "id": "764",
-    "name": "Five Night's at Shrek's Hotel",
-    "folder": "games/764"
-  },
-  {
-    "id": "765",
-    "name": "Scary Shawarma Kiosk: the ANOMALY",
-    "folder": "games/765"
-  },
-  {
-    "id": "766",
-    "name": "Suika Game",
-    "folder": "games/766"
-  },
-  {
-    "id": "767",
-    "name": "Stick Slasher",
-    "folder": "games/767"
-  },
-  {
-    "id": "768",
-    "name": "Stickman Kombat 2D",
-    "folder": "games/768"
-  },
-  {
-    "id": "769",
-    "name": "Stickman Duel",
-    "folder": "games/769"
-  },
-  {
-    "id": "770",
-    "name": "Sonic Robo Blast 2",
-    "folder": "games/770"
-  },
-  {
-    "id": "771",
-    "name": "Hollow Knight: Silksong",
-    "folder": "games/771"
-  },
-  {
-    "id": "772",
-    "name": "Sam & Max Hit the Road",
-    "folder": "games/772"
-  },
-  {
-    "id": "773",
-    "name": "Command & Conquer",
-    "folder": "games/773"
-  },
-  {
-    "id": "774",
-    "name": "Mountain Bike Racer",
-    "folder": "games/774"
-  },
-  {
-    "id": "775",
-    "name": "Bart Bash",
-    "folder": "games/775"
-  },
-  {
-    "id": "776",
-    "name": "Your Only Move Is HUSTLE",
-    "folder": "games/776"
-  },
-  {
-    "id": "777",
-    "name": "Outhold",
-    "folder": "games/777"
-  },
-  {
-    "id": "778",
-    "name": "Serial Experiments Lain",
-    "folder": "games/778"
-  },
-  {
-    "id": "779",
-    "name": "I Have No Mouth, and I Must Scream",
-    "folder": "games/779"
-  },
-  {
-    "id": "780",
-    "name": "Thing-Thing Arena 3",
-    "folder": "games/780"
-  },
-  {
-    "id": "781",
-    "name": "Scratch Inc",
-    "folder": "games/781"
-  },
-  {
-    "id": "782",
-    "name": "Um Jammer Lammy",
-    "folder": "games/782"
-  },
-  {
-    "id": "783",
-    "name": "Apes vs Helium",
-    "folder": "games/783"
-  },
-  {
-    "id": "784",
-    "name": "Gabriel's Awesome Schoolhouse (GASH)",
-    "folder": "games/784"
-  },
-  {
-    "id": "785",
-    "name": "Geometry Dash",
-    "folder": "games/785"
-  },
-  {
-    "id": "786",
-    "name": "Volley Random",
-    "folder": "games/786"
-  },
-  {
-    "id": "787",
-    "name": "BeatBlock",
-    "folder": "games/787"
-  },
-  {
-    "id": "788",
-    "name": "Vib-Robbin",
-    "folder": "games/788"
-  },
-  {
-    "id": "789",
-    "name": "Stardew Valley",
-    "folder": "games/789"
-  },
-  {
-    "id": "790",
-    "name": "Helltaker",
-    "folder": "games/790"
-  },
-  {
-    "id": "791",
-    "name": "Who's Your Daddy",
-    "folder": "games/791"
-  },
-  {
-    "id": "792",
-    "name": "Escape Road 3",
-    "folder": "games/792"
-  },
-  {
-    "id": "793",
-    "name": "Lethal Ape",
-    "folder": "games/793"
-  },
-  {
-    "id": "794",
-    "name": "Fear & Hunger 2: Termina",
-    "folder": "games/794"
-  },
-  {
-    "id": "795",
-    "name": "UvuvwevwevweOnyetenvewveUgwemubwemOssas",
-    "folder": "games/795"
-  },
-  {
-    "id": "796",
-    "name": "Slendytubbies 1",
-    "folder": "games/796"
-  },
-  {
-    "id": "797",
-    "name": "Fih",
-    "folder": "games/797"
   }
 ]

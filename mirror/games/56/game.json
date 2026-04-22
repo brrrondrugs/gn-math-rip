@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/56.html",
   "author": "Lorenzo De Carlo",
   "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo",
+  "tags": [
+    "Platformer",
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

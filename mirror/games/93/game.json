@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/93.html",
   "author": "SayGames",
   "authorLink": "https://say.games",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

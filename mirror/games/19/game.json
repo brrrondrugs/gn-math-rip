@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/19.html",
   "author": "Neron's Brother",
   "authorLink": "https://neronsbrother.com",
+  "tags": [
+    "Fighting"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

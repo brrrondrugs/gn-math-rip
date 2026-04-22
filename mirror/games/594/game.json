@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/594.html",
   "author": "scriptwelder",
   "authorLink": "https://scriptwelder.itch.io/waterworks",
+  "tags": [
+    "Horror",
+    "Adventure"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

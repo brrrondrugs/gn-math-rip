@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/280.html",
   "author": "Akos Makovics",
   "authorLink": "http://akos-makovics.com",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

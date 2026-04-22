@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/116.html",
   "author": "RHM Interactive OÜ",
   "authorLink": "https://play.google.com/store/apps/dev?id=9182049342574405049&hl=en_US",
+  "tags": [
+    "Racing",
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

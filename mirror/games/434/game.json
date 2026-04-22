@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/434.html",
   "author": "Glompyy",
   "authorLink": "https://glompyy.itch.io/gods-flesh",
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }
