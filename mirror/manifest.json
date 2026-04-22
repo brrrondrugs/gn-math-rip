@@ -1,25 +1,17 @@
 {
-  "generatedAt": "2026-04-22T14:09:56.166Z",
+  "generatedAt": "2026-04-22T19:39:29.691Z",
   "source": "https://cdn.jsdelivr.net/gh/freebuisness/assets@7d93fef0df44ed8ba3bc6be25549eac274aac47e/zones.json",
   "total": 771,
   "downloaded": {
-    "games": 767,
+    "games": 769,
     "errors": [
       {
         "id": "114",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776867011505"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/114-f.html?t=1776886775480"
       },
       {
         "id": "266",
-        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776867024704"
-      },
-      {
-        "id": "405",
-        "message": "fetch failed"
-      },
-      {
-        "id": "683",
-        "message": "fetch failed"
+        "message": "HTTP 404 for https://cdn.jsdelivr.net/gh/freebuisness/html@main/266-a.html?t=1776886782591"
       }
     ]
   }

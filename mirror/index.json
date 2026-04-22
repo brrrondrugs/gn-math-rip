@@ -1905,6 +1905,11 @@
     "folder": "games/404"
   },
   {
+    "id": "405",
+    "name": "Shooting Master",
+    "folder": "games/405"
+  },
+  {
     "id": "406",
     "name": "Supermarket 3D",
     "folder": "games/406"
@@ -3263,6 +3268,11 @@
     "id": "682",
     "name": "Cooking Mama 2",
     "folder": "games/682"
+  },
+  {
+    "id": "683",
+    "name": "Cooking Mama 3",
+    "folder": "games/683"
   },
   {
     "id": "684",
