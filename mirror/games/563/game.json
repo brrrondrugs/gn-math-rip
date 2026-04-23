@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/563.html",
   "author": "Finz Games",
   "authorLink": "https://www.finz.io/",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

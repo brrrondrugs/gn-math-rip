@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/369.html",
   "author": "Topograph Interactive",
   "authorLink": "https://store.steampowered.com/app/3431300/Slow_Roads/",
+  "tags": [
+    "Racing",
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

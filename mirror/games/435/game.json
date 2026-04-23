@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/435.html",
   "author": "rujogames",
   "authorLink": "https://rujogames.itch.io/a-small-world-cup",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

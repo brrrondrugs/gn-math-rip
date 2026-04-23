@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/122.html",
   "author": "Brain Massage",
   "authorLink": "https://play.google.com/store/apps/dev?id=7174485743246221107",
+  "tags": [
+    "Racing",
+    "Survival"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

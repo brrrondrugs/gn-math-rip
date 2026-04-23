@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/295.html",
   "author": "Shared Dreams Studio",
   "authorLink": "https://play.google.com/store/apps/dev?id=6107531068522107777&hl=en_US",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

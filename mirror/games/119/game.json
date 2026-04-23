@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/119.html",
   "author": "gamebiz",
   "authorLink": "https://gamebiz.com/",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

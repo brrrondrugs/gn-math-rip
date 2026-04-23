@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/272.html",
   "author": "MadPuffers",
   "authorLink": "https://poki.com/en/g/basketball-stars",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

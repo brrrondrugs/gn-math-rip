@@ -8,6 +8,10 @@
   "special": [
     "port"
   ],
+  "tags": [
+    "Action",
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

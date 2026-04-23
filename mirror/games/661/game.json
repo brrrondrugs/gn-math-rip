@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/661.html",
   "author": "Superplus Games",
   "authorLink": "https://play.google.com/store/apps/details?id=com.superplusgames.tower",
+  "tags": [
+    "Tower",
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

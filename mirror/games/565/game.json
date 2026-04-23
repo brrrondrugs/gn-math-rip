@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/565.html",
   "author": "CrazyGames",
   "authorLink": "https://www.crazygames.com/",
+  "tags": [
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

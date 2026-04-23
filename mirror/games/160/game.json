@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/160.html",
   "author": "Beresnev Games",
   "authorLink": "https://play.google.com/store/apps/details?id=com.easygames.race",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

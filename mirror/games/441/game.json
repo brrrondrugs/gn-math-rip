@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/441.html",
   "author": "Rakqoi",
   "authorLink": "https://rakqoi.itch.io/kittytoy",
+  "tags": [
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

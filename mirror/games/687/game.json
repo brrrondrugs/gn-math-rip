@@ -8,6 +8,10 @@
   "special": [
     "flash"
   ],
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

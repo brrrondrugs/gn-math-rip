@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/370-f.html",
   "author": "Tall Team",
   "authorLink": "https://tall.team/",
+  "tags": [
+    "Racing"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

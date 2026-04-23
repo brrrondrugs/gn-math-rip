@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/660.html",
   "author": "Four Quarters",
   "authorLink": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/",
+  "tags": [
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

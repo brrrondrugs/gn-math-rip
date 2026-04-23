@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/210.html",
   "author": "Voodoo",
   "authorLink": "https://voodoo.io",
+  "tags": [
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

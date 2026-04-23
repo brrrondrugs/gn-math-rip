@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/152.html",
   "author": "Supersonic Studios LTD",
   "authorLink": "https://play.google.com/store/apps/details?id=com.friendsgamesincubator.drawtheline",
+  "tags": [
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

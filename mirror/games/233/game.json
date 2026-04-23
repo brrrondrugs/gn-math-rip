@@ -5,6 +5,11 @@
   "url": "{HTML_URL}/233.html",
   "author": "Superhot Team",
   "authorLink": "https://superhotgame.com",
+  "tags": [
+    "Shooting",
+    "Action",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/697.html",
   "author": "justaliendev",
   "authorLink": "https://www.crazygames.com/game/bank-robbery",
+  "tags": [
+    "Action",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/473.html",
   "author": "Bruno Croci",
   "authorLink": "https://bruno.croci.me",
+  "tags": [
+    "Clicker"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

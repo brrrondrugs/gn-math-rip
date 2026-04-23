@@ -8,6 +8,10 @@
   "special": [
     "flash"
   ],
+  "tags": [
+    "Sports",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

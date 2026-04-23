@@ -9,6 +9,10 @@
     "port"
   ],
   "featured": true,
+  "tags": [
+    "Horror",
+    "Survival"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/464.html",
   "author": "eddynardo",
   "authorLink": "https://eddynardo.com/games/choppy-orc/",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

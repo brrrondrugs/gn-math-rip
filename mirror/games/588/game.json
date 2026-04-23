@@ -8,6 +8,11 @@
   "special": [
     "port"
   ],
+  "tags": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

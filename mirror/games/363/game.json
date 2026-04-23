@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/363.html",
   "author": "NoPowerUp",
   "authorLink": "https://nopowerup.com/our-game/",
+  "tags": [
+    "Clicker",
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

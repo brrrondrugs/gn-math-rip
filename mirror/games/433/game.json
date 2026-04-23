@@ -9,6 +9,11 @@
   "special": [
     "port"
   ],
+  "tags": [
+    "Horror",
+    "Adventure",
+    "RPG"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

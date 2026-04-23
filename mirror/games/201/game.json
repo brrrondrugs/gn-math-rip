@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/201.html",
   "author": "g80g",
   "authorLink": "https://g80g.com",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

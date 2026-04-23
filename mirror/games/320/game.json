@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/320.html",
   "author": "Italic Games",
   "authorLink": "https://play.google.com/store/apps/details?id=com.threed.bowling",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

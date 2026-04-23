@@ -5,6 +5,11 @@
   "url": "{HTML_URL}/632-a.html",
   "author": " Daisuke 'Pixel' Amaya",
   "authorLink": "https://www.cavestory.org/",
+  "tags": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

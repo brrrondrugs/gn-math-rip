@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/129.html",
   "author": "Dong Nguyen",
   "authorLink": "https://x.com/dongatory",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

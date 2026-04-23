@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/374e.html",
   "author": "NoodleCake",
   "authorLink": "https://noodlecake.com",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

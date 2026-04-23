@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/274.html",
   "author": "Florian van Strien",
   "authorLink": "https://florianvanstrien.nl",
+  "tags": [
+    "Puzzle",
+    "Platformer"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

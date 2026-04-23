@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/6.html",
   "author": "reunbozdo",
   "authorLink": "https://reunbozdo.github.io",
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/10.html",
   "author": "Imangi STUDIOS",
   "authorLink": "https://imangistudios.com",
+  "tags": [
+    "Endless",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

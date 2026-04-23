@@ -8,6 +8,10 @@
   "special": [
     "emulator"
   ],
+  "tags": [
+    "Platformer",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

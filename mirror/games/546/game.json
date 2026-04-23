@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/546.html",
   "author": "Martin Magini",
   "authorLink": "https://play.fancade.com",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

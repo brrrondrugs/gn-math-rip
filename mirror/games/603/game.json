@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/603-aa.html",
   "author": "growden.io",
   "authorLink": "https://growden.io/",
+  "tags": [
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

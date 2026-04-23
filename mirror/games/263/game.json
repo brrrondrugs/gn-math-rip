@@ -5,8 +5,12 @@
   "url": "{HTML_URL}/263.html",
   "author": "Id Software",
   "authorLink": "https://www.idsoftware.com/en",
+  "featured": true,
   "special": [
     "port"
+  ],
+  "tags": [
+    "Shooting"
   ],
   "localCover": "cover.png",
   "localHtml": "index.html"

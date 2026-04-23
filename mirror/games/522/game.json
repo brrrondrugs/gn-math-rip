@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/522.html",
   "author": "Lumpy, Spasco",
   "authorLink": "https://lumpytouch.itch.io/bad-monday-simulator",
+  "tags": [
+    "Horror",
+    "Puzzle"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

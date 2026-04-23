@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/354-a.html",
   "author": "Hyper Hippo Games",
   "authorLink": "https://store.steampowered.com/app/346900/AdVenture_Capitalist/",
+  "tags": [
+    "Clicker"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

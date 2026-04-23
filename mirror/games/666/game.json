@@ -6,6 +6,10 @@
   "author": "Max Games Studios",
   "featured": true,
   "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA",
+  "tags": [
+    "Strategy",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

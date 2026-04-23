@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/413.html",
   "author": "Yandex",
   "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

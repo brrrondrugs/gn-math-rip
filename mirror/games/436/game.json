@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/436.html",
   "author": "coolmathgames",
   "authorLink": "https://www.coolmathgames.com/0-awesome-tanks",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

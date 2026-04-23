@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/206.html",
   "author": "Deer Cat Games",
   "authorLink": "http://www.deercatgames.com",
+  "tags": [
+    "Action",
+    "Endless"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

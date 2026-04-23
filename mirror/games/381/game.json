@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/381.html",
   "author": "Yandex",
   "authorLink": "https://yandex.com/games",
+  "tags": [
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

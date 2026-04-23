@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/548.html",
   "author": "Blue Wizard",
   "authorLink": "https://footballbros.io",
+  "tags": [
+    "Sports"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

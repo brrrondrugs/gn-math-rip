@@ -5,6 +5,9 @@
   "url": "{HTML_URL}/544.html",
   "author": "Anson Heung",
   "authorLink": "https://www.ansonh.com",
+  "tags": [
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

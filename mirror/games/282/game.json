@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/282.html",
   "author": "rujogames",
   "authorLink": "https://rujogames.itch.io/protektor",
+  "tags": [
+    "Shooting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

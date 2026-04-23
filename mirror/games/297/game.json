@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/297.html",
   "author": "lax1dude",
   "authorLink": "https://eaglercraft.com",
+  "tags": [
+    "Survival",
+    "Simulation"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/316.html",
   "author": "Rovio",
   "authorLink": "https://rovio.com",
+  "tags": [
+    "Puzzle",
+    "Strategy"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

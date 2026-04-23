@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/624.html",
   "author": "Jim Bonacci",
   "authorLink": "https://totaljerkface.com/",
+  "tags": [
+    "Racing",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

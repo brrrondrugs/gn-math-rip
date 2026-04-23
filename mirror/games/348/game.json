@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/348.html",
   "author": "OnHit Developments",
   "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming",
+  "tags": [
+    "Action",
+    "Shooting"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }

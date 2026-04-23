@@ -5,6 +5,10 @@
   "url": "{HTML_URL}/188e.html",
   "author": "Ciorbyn",
   "authorLink": "https://www.ciorbynstudio.com",
+  "tags": [
+    "Fighting",
+    "Action"
+  ],
   "localCover": "cover.png",
   "localHtml": "index.html"
 }
